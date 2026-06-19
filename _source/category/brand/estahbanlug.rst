@@ -65,7 +65,7 @@
 ------------------------------------------------------------------------
 
 * **نکس دیتائیست:** `حساب رسمی EstahbanLUG <https://next.dataist.ir/u/estahbanlug>`_
-* **گیت‌لب:** `مخزن کدهای لاگ استهبان <https://git.dataist.ir/EstahbanLug>`_
+* **گیت‌لب:** `مخزن کدهای لاگ استهبان <https://github.com/DataistOS/EstahbanLug>`_
 * **تلگرام:** `گروه گفتگوی کاربران <https://t.me/+0KbuCX1ERF1hYmM8>`_
 * **توییتر (X):** `حساب رسمی در توییتر <https://x.com/EstahbanLug>`_
 * **اینستاگرام:** `حساب رسمی در اینستاگرام <https://www.instagram.com/estahban_lug/>`_

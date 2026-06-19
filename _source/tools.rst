@@ -87,7 +87,7 @@ Services: Management of Service Gateway
 
 * **اهدا:** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_
 * **اسپینس:** `کتاب آنلاین دی‌پیک <https://dpic.dataist.ir>`_
-* **گیتی:** `مخزن رسمی دیتائیست <https://git.dataist.ir>`_
+* **گیتی:** `مخزن رسمی دیتائیست <https://github.com/DataistOS/>`_
 * **احراز:** `سرویس احراز هویت کاربران <https://id.dataist.ir>`_
 * **جیتسی:** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
 * **نکس:** `سرویس راهکار سازمانی <https://next.dataist.ir>`_

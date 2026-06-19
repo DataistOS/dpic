@@ -43,4 +43,4 @@
 
    **لیست شرکت‌های مورد حمایت:**
    شما می‌توانید مستندات و لیست شرکت‌های طرف قرارداد را در مخزن رسمی ما مشاهده کنید:
-   `InviteHub Repository <https://git.dataist.ir/ssot/invitehub>`_
+   `InviteHub Repository <https://github.com/DataistOS/invitehub>`_

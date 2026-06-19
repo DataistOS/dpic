@@ -168,7 +168,7 @@ Datavore
 
 Datistan
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* `مخزن قانون اساسی داتیستان <https://git.dataist.ir/Documentation/datistan>`_
+* `مخزن قانون اساسی داتیستان <https://github.com/DataistOS/datistan>`_
 
 .. _vimand-resources:
 
