@@ -25,6 +25,7 @@ DPIC: Dataist Professional Institute Certification
    _source/download
    _source/faq
    _source/business
+   _source/blog
 فهرست‌ها و جداول
 ================
 

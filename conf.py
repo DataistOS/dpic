@@ -9,7 +9,7 @@ project = 'dpic'
 copyright = ' 2004-2048, Dataist'
 author = 'Hadi Mottale'
 version = '0.0'
-release = '0.2.3'
+release = '0.2.4'
 
 # -- General Configuration ---------------------------------------------------
 extensions = [
