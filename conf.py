@@ -9,14 +9,14 @@ project = 'dpic'
 copyright = ' 2004-2048, Dataist'
 author = 'Hadi Mottale'
 version = '0.0'
-release = '0.0.1'
+release = '0.0.2'
 
 # -- General Configuration ---------------------------------------------------
 extensions = [
     'myst_parser',
     'sphinx_design',
     'sphinx_sitemap',
-     'sphinx_rtd_theme',
+    'sphinx_rtd_theme',
     'sphinx_copybutton',
     'sphinx_multiversion',
     'sphinx_last_updated_by_git',
