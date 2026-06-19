@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Exclude Sphinx internal and source directories
+Disallow: /_sources/
+Disallow: /_build/
+
+# Automatically point engines to your sitemap
+Sitemap: https://dpic.dataist.ir/sitemap.xml

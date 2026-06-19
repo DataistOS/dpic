@@ -1,0 +1,8 @@
+sphinx>=7.0.0
+myst-parser
+sphinx-design
+sphinx-sitemap
+sphinx-rtd-theme
+sphinx-copybutton
+sphinx-multiversion
+sphinx-last-updated-by-git

@@ -1,0 +1,30 @@
+# -- Sphinx Documentation Build Output ---------------------------------------
+_build/
+docs/_build/
+site/
+_source/downloads
+_templates/logs
+
+# -- Python Environment & Virtual Environments -------------------------------
+.venv/
+venv/
+env/
+ENV/
+.env
+.idea/
+.DS_Store
+Thumbs.db
+
+# -- Python Byte-compiled / Optimized Files ----------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -- Jupyter & IPython -------------------------------------------------------
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# -- Type Checkers & Linters -------------------------------------------------
+.mypy_cache/
+.pytest_cache/
