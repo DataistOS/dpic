@@ -23,7 +23,7 @@ Citizenship: Citizenship Application
 Config: Centralized System Configuration and Settings Management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Damavand: The Summit of Stability; Bridging Ancient Wisdom with Mobile Technology
+Damavand: The Summit of Stability; Bridging Ancient Wisdom with Mobile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **دماوند:** :doc:`توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
@@ -55,9 +55,7 @@ Datavore: The Hub for Accumulation and Preservation of Data Assets
 Documentation: Technical Docs & Standards for Dataist Distribution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distributio | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
-
-Extensions: Custom extensions for our ecosystem tools and external utilities
+Extensions: Ecosystem tools and external utilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Games: Manifesting Data through Entertainment and Interactive Experiences
@@ -66,7 +64,7 @@ Games: Manifesting Data through Entertainment and Interactive Experiences
 * **jadijadi:** :doc:`Escape room <category/tools/jadijadi>`
 * **setaverse:** :doc:`GTA Clones <category/tools/myestahbancity>`
 
-Historical: Archive of Legacy Projects and Development History
+Historical: Archive of Legacy Projects
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Localization: Localization and Adaptation of Tools
@@ -74,7 +72,7 @@ Localization: Localization and Adaptation of Tools
 
 * **سِتهبان:** :doc:`فونت برای اکوسیستم داده‌گرا <category/tools/setahban>`
 
-Package: Repository for Software Package Distribution and Libraries
+Package: Software Package Distribution $ Libraries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sahand: House Operating System (HOS) Smart Home
@@ -82,36 +80,42 @@ Sahand: House Operating System (HOS) Smart Home
 
 * **سهند:** :doc:`توزیع لینوکسی دیتائیست برای خانه‌های هوشمند <category/tools/sahand>`
 
-Services: Management of Service Gateway
+Services: Management of Service Gateway & Community
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **اهدا:** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_
-* **اسپینس:** `کتاب آنلاین دی‌پیک <https://dpic.dataist.ir>`_
-* **گیتی:** `مخزن رسمی دیتائیست <https://github.com/DataistOS/>`_
-* **احراز:** `سرویس احراز هویت کاربران <https://id.dataist.ir>`_
-* **جیتسی:** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
-* **نکس:** `سرویس راهکار سازمانی <https://next.dataist.ir>`_
-* **کوما:** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
-* **ورد‌پرس:** `وبسایت دیتائیست <https://www.dataist.ir>`_
-* **کانفیگ:** :doc:`status_dataist_ir_status_page | پیکربند‌های صفحه مانیتورینگ کوما <category/tools/status_dataist_ir_status_page>`
+* **اینستاگرام (Instagram):** `حساب رسمی دیتائیست در اینستاگرام <https://instagram.com/dataist_ir>`_
+* **گیت‌هاب (Github):** `حساب رسمی توزیع دیتائیست در گیت‌هاب <https://github.com/DataistOS>`_
+* **اهدا (Donate):** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_
+* **اسفینکس (Sphinx):** `کتاب آنلاین دی‌پیک <https://dpic.dataist.ir>`_
+* **اکسکالی‌دِرا (Excalidraw):** `ابزار تخته‌سفید مجازی <https://excalidraw.dataist.ir>`_ (نسخه آرشیو)
+* **دیسکورس (Discourse):** `پلتفرم انجمن گفتگو <https://forum.dataist.ir>`_ (نسخه آرشیو)
+* **گیتیا (Gitea):** `مخزن رسمی دیتائیست <https://git.dataist.ir>`_ (نسخه آرشیو)
+* **اصالت‌سنجی (Authentication):** `سرویس احراز هویت کاربران <https://id.dataist.ir>`_
+* **جیتسی (Jitsi):** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
+* **نکس (NextCloud):** `سرویس راهکار سازمانی <https://next.dataist.ir>`_
+* **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
+* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir_status_page | پیکربند‌های مانیتورینگ کوما <category/tools/status_dataist_ir_status_page>`
+* **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
+* **ورد‌پرس (WordPress):** `وبسایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
 
 Sima: Visual Gateway and Custom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **کمک آموزشی دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | نسخه اپلیکیشن کتاب گواهینامه بنیاد حرفه‌ای دیتائیست  <category/tools/dpic_app>`
+* **کمک آموزشی:** :doc:`DPIC: Dataist Professional Institute Certification | نسخه اپلیکیشن کتاب دی‌پیک  <category/tools/dpic_app>`
 
 SSOT - Single source of truth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **اَشا:** :doc:`Asha:Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
 * **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
-* **هاب دعوتنامه:** :doc:`invitehub | کد‌های دعوتنامه باشگاه مشتریان <category/tools/invitehub>`
 * **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی, حقیقی, کالا‌ها <category/tools/databoss>`
+* **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distributio | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
 * **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست  <category/tools/dpic>`
+* **هاب دعوتنامه:** :doc:`invitehub | کد‌های دعوتنامه باشگاه مشتریان <category/tools/invitehub>`
 
-Startup: Accelerator for Distributed Tools & Scalable Infrastructures
+Startup: Ecosystem Utilities & Scalable Infrastructures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`
-* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک اند هدهد <category/tools/upupa>`
+* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اند به عنوان سرویس <category/tools/upupa>`
 * **ویمند:** :doc:`VimanD:The Next-Gen Financial Super App | کیف پول دیجیتال <category/tools/vimand>`
