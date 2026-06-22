@@ -1,7 +1,7 @@
 .. meta::
    :description: معرفی ابزارهای تخصصی، پورتال‌های نرم‌افزاری و پروژه‌های سخت‌افزاری اکوسیستم دیتائیست؛ شامل زیرساخت‌های هوشمند، پکیج‌منجرها، پلتفرم‌های شهروندی و سیستم‌عامل‌های توزیع شده.
    :keywords: ابزارهای توزیع دیتائیست, سخت‌افزار auzar, داکیومنت‌های رسمی دیتائیست, پکیج‌منجر datapack, سیستم‌عامل هوشمند سهند, خدمات شهروندی استهبان, زیرساخت‌های dpic, پروژه‌های گیت دیتائیست
-   
+
 ابزار‌های تخصصی توزیع دیتائیست
 ========================================================================
 
@@ -9,7 +9,7 @@ Auzar: Hardware Engineering and Physical Infrastructure of Smart Devices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **داده‌پرداخت:** :doc:`ADM:Automated Data-Goy Machine | دستگاه داده‌پرداخت اتوماتیک <category/tools/adm>`
-* **دی‌پوز:** :doc:`DPOS:Data-Point Of Sale | دستگاه کارت‌خواه دی‌پوز <category/tools/dpos>`
+* **دی‌پوز:** :doc:`DPOS:Data-Point Of Sale | دستگاه کارت‌خوان دی‌پوز <category/tools/dpos>`
 * **متاسبلان:** :doc:`MetaSavalan:Capsule Castle House | خانه‌های پیش‌ساخته هوشمند <category/tools/metasavalan>`
 * **پروین:** :doc:`Parivin:Smart Mirror Platform | آینه هوشمند <category/tools/parivin>`
 * **تیکان:** :doc:`Tikan:Metal Credit Card | کارت فلزی تیکان <category/tools/tikan>`
@@ -31,14 +31,14 @@ Damavand: The Summit of Stability; Bridging Ancient Wisdom with Mobile
 Dataist: An OS for Data-Driven Self-Awareness and Precision Customer Behavior Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **مترا:** :doc:`Metra: Dataist Pricing Calculator | ماشین حساب برای محاسبه طرح‌های درآمدی  <category/tools/metra>`
+* **مترا:** :doc:`Metra: Dataist Pricing Calculator | ماشین حساب برای محاسبه طرح‌های درآمدی <category/tools/metra>`
 * **باهما:** :doc:`مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`
-* **دیتاپک:** :doc:`DataPack:Manage Your Tools with Ease | مدیریت پکیج‌ها و نصب ابزار‌ها <category/tools/datapack>`
+* **دیتاپک:** :doc:`DataPack:Manage Your Tools with Ease | مدیریت پکیج‌ها و نصب ابزارها <category/tools/datapack>`
 * **دپی:** :doc:`Dopy:Alternative TeraCopy | نرم‌افزار سیستمی برای مدیریت هوشمند کپی فایل‌ها <category/tools/dopy>`
-* **اویس:** :doc:`Evis:Search Engine | موتور جستجوی پیش فرض اکوسیستم <category/tools/myestahbancity>`
-* **هیومنیجر:** :doc:`HuMaNager (Next-gen file explorer | مدیریت فایل‌ها بصورت ساختار اناتومی بدن انسان <category/tools/humanager>`
+* **اویس:** :doc:`Evis:Search Engine | موتور جستجوی پیش‌فرض اکوسیستم <category/tools/myestahbancity>`
+* **هیومنیجر:** :doc:`HuMaNager (Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`
 * **آی‌دی‌ان‌ای:** :doc:`IDNA:Unique Identifier - UID | ابزار مدیریت احراز هویت در اکوسیستم <category/tools/idna>`
-* **پیک:** :doc:`Peyk:delivers messages faster | پیامرسان برای ارتباط‌ها <category/tools/peyk>`
+* **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`
 
 Dataist Box: The Processing Core and Logic Governing the Hardware Ecosystem
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -94,24 +94,24 @@ Services: Management of Service Gateway & Community
 * **جیتسی (Jitsi):** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
 * **نکس (NextCloud):** `سرویس راهکار سازمانی <https://next.dataist.ir>`_
 * **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
-* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir_status_page | پیکربند‌های مانیتورینگ کوما <category/tools/status_dataist_ir_status_page>`
+* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir_status_page | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir_status_page>`
 * **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
 * **ورد‌پرس (WordPress):** `وبسایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
 
 Sima: Visual Gateway and Custom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **کمک آموزشی:** :doc:`DPIC: Dataist Professional Institute Certification | نسخه اپلیکیشن کتاب دی‌پیک  <category/tools/dpic_app>`
+* **کمک آموزشی:** :doc:`DPIC: Dataist Professional Institute Certification | نسخه اپلیکیشن کتاب دی‌پیک <category/tools/dpic_app>`
 
 SSOT - Single source of truth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **اَشا:** :doc:`Asha:Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
 * **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
-* **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی, حقیقی, کالا‌ها <category/tools/databoss>`
-* **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distributio | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
-* **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست  <category/tools/dpic>`
-* **هاب دعوتنامه:** :doc:`invitehub | کد‌های دعوتنامه باشگاه مشتریان <category/tools/invitehub>`
+* **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
+* **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
+* **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
+* **هاب دعوتنامه:** :doc:`invitehub | کدهای دعوتنامه باشگاه مشتریان <category/tools/invitehub>`
 
 Startup: Ecosystem Utilities & Scalable Infrastructures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
