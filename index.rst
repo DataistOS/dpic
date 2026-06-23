@@ -20,6 +20,7 @@ DPIC: Dataist Professional Institute Certification
    _source/help
    _source/roadmap
    _source/courses
+   _source/event
    _source/glossary
    _source/resources
    _source/download
