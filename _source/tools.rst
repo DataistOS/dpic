@@ -94,7 +94,7 @@ Services: Management of Service Gateway & Community
 * **جیتسی (Jitsi):** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
 * **نکس (NextCloud):** `سرویس راهکار سازمانی <https://next.dataist.ir>`_
 * **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
-* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir_status_page | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir_status_page>`
+* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir>`
 * **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
 * **ورد‌پرس (WordPress):** `وبسایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
 
