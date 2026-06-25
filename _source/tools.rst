@@ -2,7 +2,7 @@
    :description: معرفی ابزارهای تخصصی، پورتال‌های نرم‌افزاری و پروژه‌های سخت‌افزاری اکوسیستم دیتائیست؛ شامل زیرساخت‌های هوشمند، پکیج‌منجرها، پلتفرم‌های شهروندی و سیستم‌عامل‌های توزیع شده.
    :keywords: ابزارهای توزیع دیتائیست, سخت‌افزار auzar, داکیومنت‌های رسمی دیتائیست, پکیج‌منجر datapack, سیستم‌عامل هوشمند سهند, خدمات شهروندی استهبان, زیرساخت‌های dpic, پروژه‌های گیت دیتائیست
 
-ابزار‌های تخصصی توزیع دیتائیست
+ابزارهای اختصاصی توزیع دیتائیست
 ========================================================================
 
 Auzar: Hardware Engineering and Physical Infrastructure of Smart Devices
@@ -18,7 +18,7 @@ Citizenship: Citizenship Application
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **استهبان‌من:** :doc:`سوپر اپلیکیشن شهروندی استهبان‌من <category/tools/myestahbancity>`
-* **دیوار استهبان:** :doc:`سرویس دیوار استهبان <category/tools/estahbancity>`
+* **دیوار استهبان:** :doc:`سرویس دیوار استهبان <category/tools/estahban_city>`
 
 Config: Centralized System Configuration and Settings Management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,7 +26,7 @@ Config: Centralized System Configuration and Settings Management
 Damavand: The Summit of Stability; Bridging Ancient Wisdom with Mobile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **دماوند:** :doc:`توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
+* **دماوند:** :doc:`Dataist Mobile | توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
 
 Dataist: An OS for Data-Driven Self-Awareness and Precision Customer Behavior Analysis
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,14 +43,16 @@ Dataist: An OS for Data-Driven Self-Awareness and Precision Customer Behavior An
 Dataist Box: The Processing Core and Logic Governing the Hardware Ecosystem
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* **دیتاباکس:** :doc:`DataistBox: The Processing Core and Logic Governing the Hardware | جعبه دیتائیست <category/tools/dataistbox>`
+
 Datavore: The Hub for Accumulation and Preservation of Data Assets
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **assets:** :doc:`مدیریت دارایی‌ها <category/tools/assets>`
-* **contacts:** :doc:`مدیریت مخاطبین <category/tools/contacts>`
-* **invoices:** :doc:`سیستم فاکتورینگ <category/tools/invoices>`
-* **localbook:** :doc:`لوکال‌بوک <category/tools/localbook>`
-* **safe:** :doc:`نرم‌افزار مدیریت صندوق <category/tools/safe>`
+* **توشه (Toosheh):** :doc:`مدیریت دارایی‌ها <category/tools/toosheh>`
+* **دفترچه (Daftarche):** :doc:`مدیریت مخاطبین <category/tools/daftarche>`
+* **رسیدنامه (Residname):** :doc:`سیستم فاکتورینگ <category/tools/residname>`
+* **نگار (Negar):** :doc:`لوکال‌بوک (آرشیو سوشال مدیا) <category/tools/negar>`
+* **خزانه (Khazaneh):** :doc:`نرم‌افزار مدیریت صندوق <category/tools/khazaneh>`
 
 Documentation: Technical Docs & Standards for Dataist Distribution
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -58,11 +60,18 @@ Documentation: Technical Docs & Standards for Dataist Distribution
 Extensions: Ecosystem tools and external utilities
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+* **Blender GitSculpt:** :doc:`ابزار خروجی گیت با مدل‌های سه‌بعدی <category/tools/blender_gitsculpt>`
+* **Firefox DejaVu Unseen:** :doc:`افزونه مرورگر برای حذف ویدیوهای دیده شده <category/tools/firefox_dejavu_unseen>`
+* **Code JadiMotion:** :doc:`پلاگین پروسس بار برای وی‌اس‌کد <category/tools/code_jadimotion>`
+* **Idea JadiMotion:** :doc:`پروسس بار برای جت‌برینز <category/tools/idea_jadimotion>`
+* **Sphinx Logs:** :doc:`ماژول مستندسازی خودکار برای اسفنیکس <category/tools/sphinx_logs>`
+* **Sphinx Radan:** :doc:`پلاگین منو برای اسفنیکس <category/tools/sphinx_radan>`
+
 Games: Manifesting Data through Entertainment and Interactive Experiences
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **jadijadi:** :doc:`Escape room <category/tools/jadijadi>`
-* **setaverse:** :doc:`GTA Clones <category/tools/myestahbancity>`
+* **setaverse:** :doc:`GTA Clones <category/tools/setaverse>`
 
 Historical: Archive of Legacy Projects
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -72,13 +81,18 @@ Localization: Localization and Adaptation of Tools
 
 * **سِتهبان:** :doc:`فونت برای اکوسیستم داده‌گرا <category/tools/setahban>`
 
-Package: Software Package Distribution $ Libraries
+Package: Software Package Distribution & Libraries
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sahand: House Operating System (HOS) Smart Home
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **سهند:** :doc:`توزیع لینوکسی دیتائیست برای خانه‌های هوشمند <category/tools/sahand>`
+
+Scripts: Automated Data Maintenance & System Utilities
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* **زیر:** :doc:`شکارچی ناخالصی‌ها <category/tools/zir>`
 
 Services: Management of Service Gateway & Community
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -96,7 +110,9 @@ Services: Management of Service Gateway & Community
 * **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
 * **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir>`
 * **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
-* **ورد‌پرس (WordPress):** `وبسایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
+* **وردپرس (WordPress):** `وب‌سایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
+* **وب‌سایت (Dataist.ir):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_
+* **مخزن وب‌سایت دیتائیست:** :doc:`مخزن وب‌سایت رسمی دیتائیست <category/tools/www_dataist_ir>`
 
 Sima: Visual Gateway and Custom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -111,11 +127,11 @@ SSOT - Single source of truth
 * **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
 * **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
 * **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
-* **هاب دعوتنامه:** :doc:`invitehub | کدهای دعوتنامه باشگاه مشتریان <category/tools/invitehub>`
+* **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`
 
 Startup: Ecosystem Utilities & Scalable Infrastructures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`
-* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اند به عنوان سرویس <category/tools/upupa>`
+* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`
 * **ویمند:** :doc:`VimanD:The Next-Gen Financial Super App | کیف پول دیجیتال <category/tools/vimand>`
