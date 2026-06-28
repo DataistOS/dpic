@@ -25,6 +25,8 @@
    category/economy/business/models/next
    category/economy/business/models/brans
    category/economy/business/finance/payments
+   category/economy/business/models/investor
+   
 
 مفاد قراردادها
 ------------------------------------------------------------------------

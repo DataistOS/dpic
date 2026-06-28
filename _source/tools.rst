@@ -36,7 +36,7 @@ Dataist: An OS for Data-Driven Self-Awareness and Precision Customer Behavior An
 * **دیتاپک:** :doc:`DataPack:Manage Your Tools with Ease | مدیریت پکیج‌ها و نصب ابزارها <category/tools/datapack>`
 * **دپی:** :doc:`Dopy:Alternative TeraCopy | نرم‌افزار سیستمی برای مدیریت هوشمند کپی فایل‌ها <category/tools/dopy>`
 * **اویس:** :doc:`Evis:Search Engine | موتور جستجوی پیش‌فرض اکوسیستم <category/tools/myestahbancity>`
-* **هیومنیجر:** :doc:`HuMaNager (Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`
+* **هیومنیجر:** :doc:`HuMaNager: Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`
 * **آی‌دی‌ان‌ای:** :doc:`IDNA:Unique Identifier - UID | ابزار مدیریت احراز هویت در اکوسیستم <category/tools/idna>`
 * **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`
 
@@ -111,19 +111,20 @@ Services: Management of Service Gateway & Community
 * **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir>`
 * **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
 * **وردپرس (WordPress):** `وب‌سایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
-* **وب‌سایت (Dataist.ir):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_
+* **زولا (Zola):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_
 * **مخزن وب‌سایت دیتائیست:** :doc:`مخزن وب‌سایت رسمی دیتائیست <category/tools/www_dataist_ir>`
 
 Sima: Visual Gateway and Custom
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **کمک آموزشی:** :doc:`DPIC: Dataist Professional Institute Certification | نسخه اپلیکیشن کتاب دی‌پیک <category/tools/dpic_app>`
+* **اسفین‌کست:** :doc:`Sphinext:Documentation reader | خوانشگر مستندات در اکوسیستم داده‌گرا <category/tools/sphinext>`
 
 SSOT - Single source of truth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **اَشا:** :doc:`Asha:Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
 * **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
+* **دیتاپک‌ورس:** :doc:`Datapackverse: Intelligent Software Registry | هسته مرکزی ابزارها و پایش نسخه‌ها <category/tools/datapackverse>`
 * **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
 * **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
 * **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
