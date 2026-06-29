@@ -3,13 +3,14 @@
 
 import os
 import re
+import requests
 
 # -- Project Information -----------------------------------------------------
 project = 'dpic'
 copyright = ' 2004-2048, Dataist'
 author = 'Hadi Mottale'
 version = '0.0'
-release = '0.3.5'
+release = '0.3.6'
 
 # -- General Configuration ---------------------------------------------------
 extensions = [
@@ -86,7 +87,27 @@ html_baseurl = 'https://dpic.dataist.ir/'
 sitemap_url_scheme = "{link}"
 
 
-# -- Dynamic Book Statistics Generation --------------------------------------
+# -- Dynamic Book Statistics and Checklist Generation ------------------------
+
+# Fetches the latest checklist from the central repository and saves it to a template folder
+def download_checklist():
+    target_dir = os.path.join(os.path.dirname(__file__), '_templates', 'checklist')
+    target_file = os.path.join(target_dir, 'checklist_remote.rst')
+    
+    if not os.path.exists(target_dir):
+        os.makedirs(target_dir)
+    
+    url = "https://raw.githubusercontent.com/DataistOS/datapackverse/heuristic/checklist.rst"
+    try:
+        response = requests.get(url, timeout=10)
+        if response.status_code == 200:
+            with open(target_file, 'w', encoding='utf-8') as f:
+                f.write(response.text)
+    except Exception as e:
+        print(f"Failed to fetch remote checklist: {e}")
+
+download_checklist()
+
 def update_download_page_stats():
     total_words = 0
     source_dir = os.path.join(os.path.dirname(__file__), '_source')

@@ -4,6 +4,7 @@ docs/_build/
 site/
 _source/downloads
 _templates/logs
+_templates/checklist/
 
 # -- Python Environment & Virtual Environments -------------------------------
 .venv/

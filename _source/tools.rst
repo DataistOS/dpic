@@ -136,3 +136,10 @@ Startup: Ecosystem Utilities & Scalable Infrastructures
 * **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`
 * **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`
 * **ویمند:** :doc:`VimanD:The Next-Gen Financial Super App | کیف پول دیجیتال <category/tools/vimand>`
+
+
+Checklist: Fetches the latest from the datapackverse
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. include:: ../_templates/checklist/checklist_remote.rst
+   :start-line: 3
