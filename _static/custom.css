@@ -1,39 +1,23 @@
 /* ==========================================================================
-   Typography & Base Layout
+   Typography, Base Layout & Main Content
    ========================================================================== */
 
 @import url('https://cdnjs.cloudflare.com/ajax/libs/vazirmatn/33.0.3/vazirmatn.css');
 
-body, h1, h2, h3, h4, h5, h6, .wy-nav-side, .wy-menu-vertical a, .wy-nav-top, .rst-versions {
+body, h1, h2, h3, h4, h5, h6, .wy-nav-side, .wy-menu-vertical a, .wy-nav-top, .rst-versions, .rst-versions * {
   font-family: 'Vazirmatn', sans-serif !important;
 }
 
-body {
-  direction: rtl !important;
-  text-align: right !important;
+body, .wy-nav-content, .wy-uid-page {
   background: #1a1b26 !important;
   color: #a9b1d6 !important;
+  direction: rtl !important;
+  text-align: right !important;
 }
 
 p, li {
   text-align: justify;
   text-justify: inter-word;
-  direction: rtl !important;
-}
-
-
-/* ==========================================================================
-   Main Content Area
-   ========================================================================== */
-
-.wy-nav-content-wrap {
-  margin-right: 300px !important;
-  margin-left: 0 !important;
-  background: #1a1b26 !important;
-}
-
-.wy-uid-page, .wy-nav-content {
-  background: #1a1b26 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -46,8 +30,12 @@ hr {
 
 .rst-content img, .rst-content .figure {
   display: block !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
+  margin: 0 auto !important;
+}
+
+.wy-nav-content-wrap {
+  margin-right: 300px !important;
+  margin-left: 0 !important;
 }
 
 /* ==========================================================================
@@ -80,29 +68,15 @@ hr {
 
 .wy-menu-vertical a {
   color: #9ab3de !important;
+  text-align: right !important;
+  white-space: normal !important;
+  line-height: 1.6 !important;
 }
 
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current a, .wy-menu-vertical a:hover {
   background: #24283b !important;
   color: #ff9e64 !important;
 }
-
-/* Sidebar typography adjustments for long text alignment */
-.wy-nav-side, .wy-nav-side li, .wy-nav-side a,
-.wy-menu-vertical, .wy-menu-vertical li, .wy-menu-vertical a {
-  text-align: right !important;
-  text-justify: auto !important;
-  word-spacing: normal !important;
-}
-
-.wy-menu-vertical li a {
-  white-space: normal !important;
-  line-height: 1.6 !important;
-}
-
-/* ==========================================================================
-   Mobile Header & Links
-   ========================================================================== */
 
 .wy-nav-top {
   direction: rtl !important;
@@ -127,46 +101,28 @@ a:hover {
 }
 
 /* ==========================================================================
-   Buttons & Footer Navigation
-   ========================================================================== */
-
-.btn-neutral {
-  background-color: #24283b !important;
-  color: #a9b1d6 !important;
-  border: 1px solid #3b4261 !important;
-}
-
-.btn-neutral:hover {
-  background-color: #ff9e64 !important;
-  color: #16161e !important;
-  border-color: #ff9e64 !important;
-}
-
-.rst-footer-buttons {
-  display: flex !important;
-  flex-direction: row-reverse !important;
-}
-
-.rst-content .toctree-wrapper ul {
-  list-style-type: none !important;
-  padding-right: 0 !important;
-}
-
-.rst-content .toctree-wrapper li {
-  margin-bottom: 8px !important;
-}
-
-/* ==========================================================================
    Code Blocks & Inline Code
    ========================================================================== */
 
-.rst-content div[class^='highlight'] pre, .rst-content pre.literal-block {
-  background: #101014 !important;
+div.highlight {
+  background-color: #1e1e1e !important;
+  border-radius: 8px !important;
+  padding: 0 !important;
+  margin: 20px 0 !important;
+  border: 1px solid #333 !important;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+  overflow: hidden;
+}
+
+div.highlight pre, .rst-content div[class^='highlight'] pre, .rst-content pre.literal-block {
+  background: transparent !important;
   color: #9ece6a !important;
-  border-radius: 8px;
-  padding: 14px;
-  border: 1px solid #24283b;
-  font-family: 'Courier New', Courier, monospace !important;
+  font-family: 'Fira Code', 'Consolas', monospace !important;
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+  padding: 16px !important;
+  margin: 0 !important;
+  border: none !important;
   direction: ltr !important;
   text-align: left !important;
   overflow-x: auto;
@@ -183,6 +139,9 @@ a:hover {
   border: 1px solid #3b4261;
 }
 
+.highlight .kn { color: #c678dd !important; }
+.highlight .s1 { color: #98c379 !important; }
+
 /* ==========================================================================
    Data Tables
    ========================================================================== */
@@ -192,13 +151,11 @@ a:hover {
   border: 1px solid #24283b !important;
 }
 
-.rst-content table.docutils tr:nth-child(odd),
-.rst-content table.docutils tr:nth-child(odd) td {
+.rst-content table.docutils tr:nth-child(odd), .rst-content table.docutils tr:nth-child(odd) td {
   background-color: #1b1e26 !important;
 }
 
-.rst-content table.docutils tr:nth-child(even),
-.rst-content table.docutils tr:nth-child(even) td {
+.rst-content table.docutils tr:nth-child(even), .rst-content table.docutils tr:nth-child(even) td {
   background-color: #232733 !important;
 }
 
@@ -237,46 +194,36 @@ a:hover {
   border-bottom: 1px solid #3b4261 !important;
 }
 
-/* Info & Note blocks RTL layout */
-.rst-content .admonition.info, .rst-content .admonition.note,
-div.admonition.info, div.admonition.note {
+.rst-content .admonition.info, .rst-content .admonition.note, div.admonition.info, div.admonition.note {
   border-right: 4px solid #7aa2f7 !important;
-  border-left: none !important;
 }
 
-.rst-content .admonition.info .admonition-title,
-.rst-content .admonition.note .admonition-title {
+.rst-content .admonition.important, .rst-content .admonition.warning, div.admonition.important, div.admonition.warning {
+  border-right: 4px solid #ff9e64 !important;
+}
+
+.rst-content .admonition.info .admonition-title, .rst-content .admonition.note .admonition-title {
   color: #7aa2f7 !important;
 }
 
-/* Important & Warning blocks RTL layout */
-.rst-content .admonition.important, .rst-content .admonition.warning,
-div.admonition.important, div.admonition.warning {
-  border-right: 4px solid #ff9e64 !important;
-  border-left: none !important;
-}
-
-.rst-content .admonition.important .admonition-title,
-.rst-content .admonition.warning .admonition-title {
+.rst-content .admonition.important .admonition-title, .rst-content .admonition.warning .admonition-title {
   color: #ff9e64 !important;
 }
 
 /* ==========================================================================
-	Version Flyout Menu - Optimized Spacing
+   Version Flyout Menu
    ========================================================================== */
 
 .rst-versions {
   position: fixed !important;
   bottom: 0 !important;
   left: 0 !important;
-  right: auto !important;
   width: 150px !important;
   background: #16161e !important;
   border-top: 1px solid #3b4261 !important;
   border-right: 1px solid #3b4261 !important;
   z-index: 400 !important;
   direction: rtl !important;
-  font-family: 'Vazirmatn', sans-serif !important;
 }
 
 .rst-versions .rst-current-version {
@@ -290,10 +237,7 @@ div.admonition.important, div.admonition.warning {
   font-size: 80% !important;
 }
 
-.rst-versions .rst-current-version .fa-caret-down {
-  float: left !important;
-  margin-top: 3px !important;
-}
+.rst-versions .rst-current-version .fa-caret-down { float: left !important; margin-top: 3px !important; }
 
 .rst-versions .rst-other-versions {
   display: none !important;
@@ -301,14 +245,9 @@ div.admonition.important, div.admonition.warning {
   background: #16161e !important;
 }
 
-.rst-versions.shift-up .rst-other-versions,
-.rst-versions:hover .rst-other-versions {
-  display: block !important;
-}
+.rst-versions.shift-up .rst-other-versions, .rst-versions:hover .rst-other-versions { display: block !important; }
 
-.rst-versions dl {
-  margin-bottom: 4px !important;
-}
+.rst-versions dl { margin-bottom: 4px !important; }
 
 .rst-versions dt {
   font-weight: bold !important;
@@ -318,12 +257,7 @@ div.admonition.important, div.admonition.warning {
   margin-bottom: 2px !important;
 }
 
-.rst-versions dd {
-  display: block !important;
-  margin-right: 5px !important;
-  margin-left: 0 !important;
-  margin-bottom: 2px !important;
-}
+.rst-versions dd { display: block !important; margin-right: 5px !important; margin-left: 0 !important; margin-bottom: 2px !important; }
 
 .rst-versions a {
   color: #7aa2f7 !important;
@@ -332,13 +266,12 @@ div.admonition.important, div.admonition.warning {
   line-height: 1.2 !important;
 }
 
-.rst-versions a:hover {
-  color: #73daca !important;
-}
+.rst-versions a:hover { color: #73daca !important; }
+
 /* ==========================================================================
-   Logo Style Optimization
+   Logo & Breadcrumbs
    ========================================================================== */
-   
+
 .wy-side-nav-search a img.logo {
   max-width: 80px !important;
   width: 80px !important;
@@ -347,37 +280,21 @@ div.admonition.important, div.admonition.warning {
   display: block !important;
 }
 
-/* ==========================================================================
-   Fix Breadcrumbs & GitHub Link RTL (Show "Edit" Only)
-   ========================================================================== */
-
 .wy-breadcrumbs {
   direction: rtl !important;
   text-align: right !important;
-  padding: 0 !important;
   display: flex !important;
   justify-content: space-between !important;
   align-items: center !important;
   list-style: none !important;
-}
-
-.wy-breadcrumbs li {
-  display: inline-flex !important;
-  align-items: center !important;
-  float: none !important;
-}
-
-.wy-breadcrumbs li a i.fa-home {
-  margin-left: 6px !important;
-  margin-right: 0 !important;
-}
-
-.wy-breadcrumbs-aside {
-  margin-right: auto !important;
-  margin-left: 0 !important;
   padding: 0 !important;
-  float: none !important;
 }
+
+.wy-breadcrumbs li { display: inline-flex !important; align-items: center !important; }
+
+.wy-breadcrumbs li a i.fa-home { margin-left: 6px !important; }
+
+.wy-breadcrumbs-aside { margin-right: auto !important; margin-left: 0 !important; padding: 0 !important; }
 
 .wy-breadcrumbs-aside a {
   display: inline-flex !important;
@@ -390,61 +307,15 @@ div.admonition.important, div.admonition.warning {
   content: "ویرایش" !important;
   font-size: 13px !important;
   color: #41a6b5 !important;
-  font-family: 'Vazirmatn', sans-serif !important;
 }
 
-.wy-breadcrumbs-aside a:hover::before {
-  color: #73daca !important;
-}
+.wy-breadcrumbs-aside a:hover::before { color: #73daca !important; }
 
 .wy-breadcrumbs-aside a i.fa-github {
   font-size: 14px !important;
   color: #41a6b5 !important;
   margin-right: 6px !important;
-  margin-left: 0 !important;
   display: inline-block !important;
-  width: auto !important;
-  height: auto !important;
-  background: none !important;
 }
 
-.wy-breadcrumbs-aside a:hover i.fa-github {
-  color: #73daca !important;
-}
-
-/* Force Vazirmatn on all elements inside the version flyout */
-.rst-versions, 
-.rst-versions * {
-  font-family: 'Vazirmatn', sans-serif !important;
-}
-
-
-/* Code block styling */
-div.highlight {
-    background-color: #1e1e1e !important;
-    border-radius: 8px !important;
-    padding: 0 !important;
-    margin: 20px 0 !important;
-    border: 1px solid #333 !important;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
-    overflow: hidden;
-}
-
-div.highlight pre {
-    background: transparent !important;
-    color: #d4d4d4 !important;
-    font-family: 'Fira Code', 'Consolas', monospace !important;
-    font-size: 14px !important;
-    line-height: 1.6 !important;
-    padding: 16px !important;
-    margin: 0 !important;
-    border: none !important;
-}
-
-/* Syntax highlighting */
-.highlight .kn { color: #c678dd !important; }
-.highlight .s1 { color: #98c379 !important; }
-
-
-
-
+.wy-breadcrumbs-aside a:hover i.fa-github { color: #73daca !important; }

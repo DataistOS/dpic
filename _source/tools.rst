@@ -31,7 +31,7 @@ Damavand: Summit of Stability; Bridging Wisdom & Mobile
 Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **0Central Dashboard & Core Shell - داشبورد مرکزی و هسته‌های سیستمی**
+* **Central Dashboard & Core Shell - داشبورد مرکزی و هسته‌های سیستمی**
     * **Identity & Access Management - مدیریت هویت و دسترسی**
          * :doc:`آی‌دی‌ان‌ای: ابزار مدیریت احراز هویت در اکوسیستم | IDNA: Unique Identifier (UID) <category/tools/idna>`
     * **Global Notification & Search Center - مرکز اعلان‌ها و جستجوی سراسری**
@@ -53,7 +53,7 @@ Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
 * **Office Automation & Infrastructure**
     * **Secretariat & Correspondence System - دبیرخانه و مکاتبات اداری**
          * :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`
-         * :doc:`نگار: ملوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
+         * :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
     * **Document Management System (DMS) - مدیریت اسناد و بایگانی الکترونیک**
     * **Workflow Engine - اتوماسیون گردش کار**
     * **Contract Management - مدیریت قراردادها**
@@ -67,9 +67,12 @@ Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
     * **Real Estate Management - مدیریت املاک و مستغلات**
     * **Fleet Management - مدیریت ناوگان حمل‌ونقل**
     * **Hospitality & Reservation Management - مدیریت هتل‌داری و رزرواسیون**
+    * **Agriculture & Gardening Management - مدیریت کشاورزی و باغبانی**
+         * :doc:`پارس‌ژئو: شناسنامه دیجیتال درختان | ParsGeo: Intelligent Plant Landscape Identifier <category/tools/parsgeo>`
 * **E-Commerce & Service**
     * **Catalog & Cart Management - مدیریت فروشگاه اینترنتی**
     * **Payment Gateway & Wallet - مدیریت درگاه‌های پرداخت و کیف پول**
+         * :doc:`ویمند: کیف پول دیجیتال | VimanD:The Next-Gen Financial Super App <category/tools/vimand>`
     * **Last-Mile Delivery Tracking - مدیریت تحویل و رهگیری سفارشات**
 * **Business Intelligence (BI) & Analytics**
     * **Reporting Engine & Dashboards - داشبوردهای مدیریتی و گزارش‌ساز**
@@ -81,8 +84,10 @@ Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
     * **Legal & Tax Compliance - مدیریت انطباق قانونی و مالیاتی**
 * **Knowledge & Security Management**
     * **Knowledge Management (Wiki/SOPs) - مدیریت دانش و دستورالعمل‌ها**
+         * :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive<category/tools/drstrategies>`
     * **Digital Signature Service - سرویس امضای الکترونیک**
     * **Physical Access & Security Control - حراست و کنترل تردد فیزیکی**
+    
 ---
 
 * **باهما:** :doc:`Bahoma: Language Model Management System | مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`
@@ -221,8 +226,6 @@ Startup: Ecosystem Utilities & Scalable Infrastructures
 * **انجیرسنج:** :doc:`FigScan: Intelligent Fig Variety Identifier | شناسایی هوشمند ارقام انجیر <category/tools/fig_scan>`
 * **ایران‌اکسس:** :doc:`IranAccess: Network Accessibility Monitor | وضعیت شبکه ایران <category/tools/iranaccess>`
 * **اینفوور:** :doc:`Infovore: System Deep-Dive Monitor | پایش اعماق داده‌های سخت‌افزاری و نرم‌افزاری <category/tools/infovore>`
-* **پارس‌ژئو:** :doc:`ParsGeo: Intelligent Plant Landscape Identifier | سامانه شناسنامه‌گذاری دیجیتال درختان <category/tools/parsgeo>`
-* **دکتر استراتژی:** :doc:`DrStrategies: Strategic Thoughts Archive | آرشیو اندیشه‌های راهبردی <category/tools/drsttrategies>`
 * **دنس‌سینک:** :doc:`DanceSync: The Ultimate Duo Combos | بهترین ترکیب‌های دو نفره <category/tools/dancesync>`
 * **دیتینگ‌فورایکس:** :doc:`Dating4X: Connecting People in the Twitter Geography | پیوند  جغرافیای اکس <category/tools/dating4x>`
 * **رادارپت:** :doc:`RadarPet: Intelligent Lost Pet Tracking Network | شبکه جستجوی حیوانات گمشده <category/tools/radarpet>`
@@ -235,7 +238,6 @@ Startup: Ecosystem Utilities & Scalable Infrastructures
 * **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`
 * **نت‌اکو:** :doc:`NetEcho: Web Interaction Echo | انتشار متن در هر کجای اینترنت <category/tools/netecho>`
 * **ویس:** :doc:`Veys: Smart Companion for Digital Nomads | همراه هوشمند عشایر دیجیتال <category/tools/veys>`
-* **ویمند:** :doc:`VimanD:The Next-Gen Financial Super App | کیف پول دیجیتال <category/tools/vimand>`
 * **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`
 
 Checklist: Fetches the latest from the datapackverse

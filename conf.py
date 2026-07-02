@@ -6,11 +6,30 @@ import re
 import requests
 
 # -- Project Information -----------------------------------------------------
+
 project = 'dpic'
-copyright = ' 2004-2048, Dataist'
+copyright = '2004-2048, Dataist'
 author = 'Hadi Mottale'
-version = '0.0'
-release = '0.3.8'
+
+# Dynamic version reading from VERSION file in project root
+current_dir = os.path.dirname(os.path.abspath(__file__))
+version_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'VERSION')
+
+print(f"DEBUG: Looking for VERSION file at: {version_file}")
+
+try:
+    with open(version_file, 'r') as f:
+        content = f.read().strip()
+        if 'echo "' in content:
+            release = content.split('"')[1]
+        else:
+            release = content
+except Exception:
+    print(f"DEBUG: Error reading VERSION: {e}")
+    release = '0.0.1' # Fallback version
+
+version = release
+print(f"DEBUG: Version detected as: {release}")
 
 # -- General Configuration ---------------------------------------------------
 extensions = [
@@ -57,7 +76,7 @@ html_sidebars = {
     '**': [
         'searchbox.html',
         'navigation.html',
-        'versions.html',  # Loads the custom multi-version switcher menu
+	'versions.html',  # Loads the custom multi-version switcher menu
     ]
 }
 

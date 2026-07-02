@@ -1,0 +1,22 @@
+name: Create Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Create ZIP
+        run: zip -r DPIC-${{ github.ref_name }}.zip . -x "*.git*" "_build/*" "tests/*" "venv/*"
+        
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: DPIC-*.zip
