@@ -5,33 +5,31 @@ import os
 import re
 import requests
 
-# -- Project Information -----------------------------------------------------
-
+# --- Project Information ---
 project = 'dpic'
 copyright = '2004-2048, Dataist'
 author = 'Hadi Mottale'
 
-# Dynamic version reading from VERSION file in project root
+# --- Versioning Logic ---
+# Dynamically reads the version from a local VERSION file
 current_dir = os.path.dirname(os.path.abspath(__file__))
-version_file = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'VERSION')
+version_file = os.path.join(current_dir, 'VERSION')
 
 print(f"DEBUG: Looking for VERSION file at: {version_file}")
 
 try:
     with open(version_file, 'r') as f:
         content = f.read().strip()
-        if 'echo "' in content:
-            release = content.split('"')[1]
-        else:
-            release = content
-except Exception:
+        # Extracts version if formatted as 'echo "x.x.x"'
+        release = content.split('"')[1] if 'echo "' in content else content
+except Exception as e:
     print(f"DEBUG: Error reading VERSION: {e}")
-    release = '0.0.1' # Fallback version
+    release = '0.0.1'  # Fallback version
 
 version = release
 print(f"DEBUG: Version detected as: {release}")
 
-# -- General Configuration ---------------------------------------------------
+# --- General Configuration ---
 extensions = [
     'myst_parser',
     'sphinx_design',
@@ -45,17 +43,13 @@ extensions = [
 sourcedir = '_source'
 templates_path = ['_templates']
 exclude_patterns = [
-    '_build',
-    'Thumbs.db',
-    '.DS_Store',
-    'README.md',
-    '_source/download.tmpl.rst'  # Exclude the template file from direct rendering
+    '_build', 'Thumbs.db', '.DS_Store', 'README.md', '_source/download.tmpl.rst'
 ]
 
 language = 'fa'
-smartquotes = True  # Automatically optimizes typography and double quotes
+smartquotes = True  # Optimizes typography and quotes
 
-# -- HTML Output Options -----------------------------------------------------
+# --- HTML Theme & Interface ---
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['custom.css']
@@ -63,7 +57,6 @@ html_logo = '_static/logo.png'
 html_favicon = '_static/favicon.png'
 html_search_language = 'fa'
 
-# -- Theme Options & Navigation ----------------------------------------------
 html_theme_options = {
     'vcs_pageview_mode': 'edit',
     'logo_only': False,
@@ -71,16 +64,11 @@ html_theme_options = {
     'style_external_links': True,
 }
 
-# -- Sidebar Templates Configuration -----------------------------------------
 html_sidebars = {
-    '**': [
-        'searchbox.html',
-        'navigation.html',
-	'versions.html',  # Loads the custom multi-version switcher menu
-    ]
+    '**': ['searchbox.html', 'navigation.html', 'versions.html']
 }
 
-# -- Git Integration & Flyout Menu Context -----------------------------------
+# --- Repository & Version Context ---
 html_context = {
     'display_github': True,
     'github_user': 'DataistOS',
@@ -94,28 +82,27 @@ html_context = {
     'downloads': [('HTML', '#'), ('EPUB', '#')],
 }
 
-# -- Sphinx Multiversion Configuration ----------------------------------------
+# --- Multi-Version Handling ---
 smv_branch_whitelist = r'^(main|master|heuristic)$'
 smv_tag_whitelist = r'^v\d+\.\d+(\.\d+)?$'
 smv_released_pattern = r'^tags/.*$'
-# Allow rebuilding from the local working directory without forcing remote checks
 smv_remote_whitelist = None
 
-# -- SEO Configuration (Sitemap) ---------------------------------------------
+# --- SEO & Sitemap ---
 html_baseurl = 'https://dpic.dataist.ir/'
 sitemap_url_scheme = "{link}"
 
 
-# -- Dynamic Book Statistics and Checklist Generation ------------------------
+# --- Automation: Checklist & Stats Engine ---
 
-# Fetches the latest checklist from the central repository and saves it to a template folder
 def download_checklist():
+    """Fetches the latest remote checklist for documentation."""
     target_dir = os.path.join(os.path.dirname(__file__), '_templates', 'checklist')
     target_file = os.path.join(target_dir, 'checklist_remote.rst')
-    
+
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
-    
+
     url = "https://raw.githubusercontent.com/DataistOS/datapackverse/heuristic/checklist.rst"
     try:
         response = requests.get(url, timeout=10)
@@ -128,54 +115,37 @@ def download_checklist():
 download_checklist()
 
 def update_download_page_stats():
+    """Calculates book stats and injects them into the download page."""
     total_words = 0
     source_dir = os.path.join(os.path.dirname(__file__), '_source')
 
-    # 1. Calculate total words from all source files
+    # Calculate total word count
     if os.path.exists(source_dir):
-        for root, dirs, files in os.walk(source_dir):
+        for root, _, files in os.walk(source_dir):
             for file in files:
-                if file.endswith('.rst') or file.endswith('.md'):
-                    # Skip download files to avoid infinite loops or counting placeholders
-                    if file in ['download.rst', 'download.tmpl.rst']:
-                        continue
-
+                if file.endswith(('.rst', '.md')) and file not in ['download.rst', 'download.tmpl.rst']:
                     with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                        content = f.read()
-                        content = re.sub(r'.. \w+::.*', '', content)
+                        content = re.sub(r'.. \w+::.*', '', f.read())
                         content = re.sub(r':\w+:`.`', '', content)
-                        words = re.findall(r'[\w\u200c]+', content)
-                        total_words += len(words)
+                        total_words += len(re.findall(r'[\w\u200c]+', content))
 
     estimated_pages = max(1, round(total_words / 275))
+    print(f"DEBUG: Words: {total_words}, Estimated Pages: {estimated_pages}")
 
-    print("=" * 50)
-    print(f"DEBUG: TOTAL WORDS CALCULATED: {total_words}")
-    print(f"DEBUG: ESTIMATED PAGES CALCULATED: {estimated_pages}")
-    print("=" * 50)
+    # Generate output file from template
+    tmpl = os.path.join(source_dir, 'download.tmpl.rst')
+    out = os.path.join(source_dir, 'download.rst')
 
-    # 2. Read from Template and write freshly to download.rst
-    template_path = os.path.join(source_dir, 'download.tmpl.rst')
-    download_file_path = os.path.join(source_dir, 'download.rst')
+    if os.path.exists(tmpl):
+        with open(tmpl, 'r', encoding='utf-8') as f:
+            data = f.read().replace('__TOTAL_WORDS_PLACEHOLDER__', f"{total_words:,}")
+            data = data.replace('__ESTIMATED_PAGES_PLACEHOLDER__', str(estimated_pages))
+        with open(out, 'w', encoding='utf-8') as f:
+            f.write(data)
 
-    if os.path.exists(template_path):
-        with open(template_path, 'r', encoding='utf-8') as f:
-            template_content = f.read()
-
-        # Replace placeholders dynamically
-        rendered_content = template_content.replace('__TOTAL_WORDS_PLACEHOLDER__',
-                                                    f"{total_words:,}")
-        rendered_content = rendered_content.replace('__ESTIMATED_PAGES_PLACEHOLDER__',
-                                                    str(estimated_pages))
-
-        with open(download_file_path, 'w', encoding='utf-8') as f:
-            f.write(rendered_content)
-
-
-# Run the stats engine on build
 update_download_page_stats()
 
-# -- LaTeX Options for Persian Language Support ------------------------------
+# --- LaTeX Configuration for Persian ---
 latex_engine = 'xelatex'
 latex_elements = {
     'fontpkg': '',
@@ -189,7 +159,5 @@ latex_elements = {
     ''',
 }
 
-# Global substitution for the current release version
-rst_prolog = f"""
-.. |version_number| replace:: {release}
-"""
+# Global substitution for versioning in RST files
+rst_prolog = f".. |version_number| replace:: {release}"
