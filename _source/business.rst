@@ -16,17 +16,18 @@
    :maxdepth: 2
    :caption: سرفصل‌های مدل اقتصادی:
 
+
    category/economy/business/models/summary
-   category/economy/business/models/plan
-   category/economy/business/models/map
-   category/economy/business/models/mahak
-   category/economy/business/models/daas
+   category/economy/business/models/rbf
    category/economy/business/models/donate
-   category/economy/business/models/next
+   category/economy/business/models/individual
+   category/economy/business/models/corporate
+   category/economy/business/models/daas
+   category/economy/business/models/asset_owner
+   
+   category/economy/business/models/plan
    category/economy/business/models/brans
    category/economy/business/finance/payments
-   category/economy/business/models/investor
-   
 
 مفاد قراردادها
 ------------------------------------------------------------------------
