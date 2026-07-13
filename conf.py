@@ -1,5 +1,4 @@
-# Sphinx Builder Configuration File
-# Documentation: https://www.sphinx-doc.org/en/master/usage/configuration.html
+"""Sphinx builder configuration file for dpic project."""
 
 import os
 import re
@@ -11,7 +10,7 @@ copyright = '2004-2048, Dataist'
 author = 'Hadi Mottale'
 
 # --- Versioning Logic ---
-# Dynamically reads the version from a local VERSION file
+# Dynamically reads the version from a local VERSION file.
 current_dir = os.path.dirname(os.path.abspath(__file__))
 version_file = os.path.join(current_dir, 'VERSION')
 
@@ -47,12 +46,20 @@ exclude_patterns = [
 ]
 
 language = 'fa'
-smartquotes = True  # Optimizes typography and quotes
+smartquotes = True
 
 # --- HTML Theme & Interface ---
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
-html_css_files = ['custom.css']
+html_css_files = [
+    'custom.css',
+    'https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css'
+]
+html_js_files = [
+    'https://code.jquery.com/jquery-3.6.0.min.js',
+    'https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js',
+    'js/datatable_init.js'
+]
 html_logo = '_static/logo.png'
 html_favicon = '_static/favicon.png'
 html_search_language = 'fa'
@@ -96,7 +103,11 @@ sitemap_url_scheme = "{link}"
 # --- Automation: Checklist & Stats Engine ---
 
 def download_checklist():
-    """Fetches the latest remote checklist for documentation."""
+    """Fetches the latest remote checklist from GitHub.
+
+    Downloads the checklist.rst file from the datapackverse repository
+    and saves it to the local _templates/checklist directory for inclusion.
+    """
     target_dir = os.path.join(os.path.dirname(__file__), '_templates', 'checklist')
     target_file = os.path.join(target_dir, 'checklist_remote.rst')
 
@@ -115,11 +126,15 @@ def download_checklist():
 download_checklist()
 
 def update_download_page_stats():
-    """Calculates book stats and injects them into the download page."""
+    """Calculates statistics for the book and updates the download page.
+
+    Iterates through the _source directory to count total words in RST/MD
+    files and estimates the page count based on average word density.
+    """
     total_words = 0
     source_dir = os.path.join(os.path.dirname(__file__), '_source')
 
-    # Calculate total word count
+    # Iterate through files to calculate word count
     if os.path.exists(source_dir):
         for root, _, files in os.walk(source_dir):
             for file in files:

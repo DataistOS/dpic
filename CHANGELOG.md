@@ -1,3 +1,13 @@
+## [0.4.3] - 2026-07-13
+
+### Added
+- Interactive sorting for ecosystem tool tables using DataTables.
+- Custom initialization script (`_static/js/datatable_init.js`) for table UI cleanup.
+
+### Changed
+- Refined `conf.py` documentation and configuration to support dynamic table enhancements.
+- Updated `VERSION` metadata.
+
 ## [0.4.0] - 2026-07-04
 
 ### Added / Updated
