@@ -1,3 +1,10 @@
+## [0.4.4] - 2026-07-15
+
+### Changed
+- **Docs:** Updated `community.rst` to reflect the latest community engagement guidelines and structure.
+- **Docs:** Refined `download.rst` to provide clearer access paths and resource links for the current distribution.
+- **Maintenance:** General cleanup of information architecture in the community and download sections.
+- 
 ## [0.4.3] - 2026-07-13
 
 ### Added
