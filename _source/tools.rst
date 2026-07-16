@@ -23,7 +23,7 @@ Citizenship: Citizenship Application
 Config: Centralized System Config & Management
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Damavand: Summit of Stability; Bridging Wisdom & Mobile
+Damavand: Stability Summit; Wisdom-Mobile Bridge
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **دماوند:** :doc:`Dataist Mobile | توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
@@ -87,9 +87,7 @@ Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
          * :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive<category/tools/drstrategies>`
     * **Digital Signature Service - سرویس امضای الکترونیک**
     * **Physical Access & Security Control - حراست و کنترل تردد فیزیکی**
-    
----
-
+   
 * **باهما:** :doc:`Bahoma: Language Model Management System | مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`
 * **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`
 * **دپی:** :doc:`Dopy:Alternative TeraCopy | نرم‌افزار سیستمی برای مدیریت هوشمند کپی فایل‌ها <category/tools/dopy>`
@@ -119,6 +117,73 @@ Datavore: Hub for Data Accumulation & Preservation
     * **Fixed Asset Management - مدیریت دارایی‌های ثابت**
     * **Material Requirements Planning (MRP) - مدیریت تولید و برنامه‌ریزی منابع**
     
+.. code-block:: text
+
+    DataVore_Master
+    ├── Knowledge (مخزن دانش)
+    │   ├── Tech & Security (فنی و امنیت)
+    │   │   ├── Code: کدهای توسعه یافته و اسکریپت‌ها
+    │   │   ├── Bugs: گزارش‌های خطا و باگ‌ها
+    │   │   ├── Malware: تحلیل‌های بدافزار
+    │   │   ├── Hack Report: گزارش‌های امنیتی
+    │   │   └── Hacker Group: اطلاعات گروه‌های هکری
+    │   ├── Skills (مهارت‌ها): آرشیو و مستندات مهارت‌های فردی
+    │   ├── Media & Writing (رسانه و نوشتار)
+    │   │   ├── Articles: مقالات و تحلیل‌ها
+    │   │   ├── Comics: لایت ناول، مانگا، منهوا, کمیک‌بوک
+    │   │   ├── Screenplay: فیلم‌نامه و نمایشنامه‌ها
+    │   │   ├── Social Content: بلاگ، پست، توییت
+    │   │   ├── Magazine & News: نشریات و اخبار
+    │   │   ├── Handwritten: یادداشت‌های دست‌نویس
+    │   │   └── Books: مدیریت کتابخانه شخصی
+    │   ├── Culture & History (فرهنگ و تاریخ)
+    │   │   ├── History: مستندات تاریخی
+    │   │   ├── Science: یافته‌های علمی
+    │   │   ├── Awards & Medals: افتخارات و دستاوردها
+    │   │   ├── Deities: اسطوره‌شناسی و خدایان
+    │   │   ├── Unusual deaths: وقایع و مرگ‌های غیرمعمول
+    │   │   └── Observances: مناسبت‌ها و آیین‌ها
+    │   ├── Social & Marketing (اجتماعی و بازاریابی)
+    │   │   ├── Purchases: مدیریت خریدهای انجام شده و فاکتورها
+    │   │   ├── Brand: هویت برند و استراتژی‌ها
+    │   │   ├── Opinion poll: نظرسنجی‌ها
+    │   │   ├── Social media genres: سبک‌های فضای مجازی
+    │   │   ├── HashTag: ترندها و کلمات کلیدی
+    │   │   └── Viral: محتوای وایرال
+    │   └── Miscellaneous (متفرقه و خلاقانه)
+    │       ├── ASMR: محتوای صوتی
+    │       ├── Jokes: سرگرمی و جوک
+    │       ├── April Fools' Day: شوخی‌های آوریل
+    │       ├── Email: آرشیو مکاتبات
+    │       ├── Lists: لیست‌های کاربردی
+    │       ├── Publishing: فرایندهای نشر
+    │       └── Social Responsibility (مسئولیت‌های اجتماعی)
+    │           ├── Donation (اهدایی ها): خون، رمزارز، پول، عضو، اسپرم
+    │           ├── Gift (هدایا): هدیه داده‌ام، هدیه گرفته‌ام، مناسب برای هدیه دادن
+    │           └── Meelopen: برنامه‌های کارآموزی/مشاهده گری شغلی
+    │
+    ├── Art (هنر)
+    │   ├── Architecture (معماری)
+    │   │   └── Iranian Architecture Based On Usage: معماری ایرانی بر اساس کاربری
+    │   ├── Dance (رقص)
+    │   │   ├── Ice: رقص روی یخ, Irani: رقص ایرانی, Reggaetón: رگاتون, Tango: تانگو, Twerk: توئرک
+    │   ├── Drawing Art (هنرهای ترسیمی)
+    │   │   ├── Calligraphy: خوشنویسی, Caricature: کاریکاتور, Painting: نقاشی, Photography: عکاسی, Tattoo: تتو
+    │   ├── Literature (ادبیات)
+    │   │   ├── 1001 Narrative, 1001 Poetry, 1001 Prose, 1001 Screenplay
+    │   ├── Performing Art (هنرهای نمایشی)
+    │   │   ├── Acrobatics, Ballet, Cinema, Circus, Clown, Concert, Gymnastique, Magic, Music: مدیریت موسیقی, Opéra, Pantomime, Philharmonia, Professional wrestling, Public speaking, Puppetry, Stand-up comedy, Ta'zieh, Theatre, Ventriloquism
+    │   └── Visual Art (هنرهای تجسمی)
+    │       ├── Knitting: بافتنی, Sculpture: مجسمه‌سازی
+    │
+    ├── Sports (ورزش و بازی ها)
+    │   ├── Board Games: بازی‌های رومیزی (Chess: شطرنج)
+    │   ├── Individual Sports: (Auto racing, Bodybuilding, Cycle Sport, Equestrian, Hunting, Martial arts, Motorcycle, Pro Wrestling, Running, Shooting, Throwing, Water Sports)
+    │   ├── Logic puzzles, Mountaineering, Paper&Pencil Games, Team Sport, Video Games
+    │
+    └── Places (مکان ها و تجربیات)
+        ├── BookStore, Caves, Coffeeshop, Country, Cycling Tips, Galleries, Historic, Lake, Natural Wonders, Nature Tour, Restaurants, Road, Streets in, Tree, Unforgettable, Walks, Waterfalls
+
 Documentation: Tech Docs & Standards for Dataist Distro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -135,7 +200,9 @@ Extensions: Ecosystem tools and external utilities
 Foundation: The Core Architecture of Dataist OS
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **Foundation: The Core Architecture of Dataist OS**
+* **Communication & Event Protocols**
+* **دورموز:** :doc:`Dormuz: The Dataist Interactive Core | هسته تعاملی و شل اکوسیستم <category/tools/dormuz>`
+* **بُن:** :doc:`Bon: The Bus of Nodes | پروتکل تبادل رویداد در اکوسیستم <category/tools/bon>`
    * **Infrastructure Manifests:** :doc:`Build logic (archiso), build scripts <category/tools/infrastructure_manifests>`
    * **System Wide Config:** :doc:`Core settings (os-release, pacman, sysctl) <category/tools/system_wide_config>`
    * **Dotfiles:** :doc:`Your personal workflow (Hyprland, etc.) <category/tools/dotfiles>`
@@ -212,11 +279,13 @@ SSOT: Single Source of Truth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * **اَشا:** :doc:`Asha: Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
+* **کاران:** :doc:Karan: Business registry | منبع حقیقت کسب و کارها <category/tools/karan>
 * **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
 * **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
 * **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
 * **دیتاپک‌ورس:** :doc:`Datapackverse: Intelligent Software Registry | هسته مرکزی ابزارها و پایش نسخه‌ها <category/tools/datapackverse>`
 * **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
+* **نگارگر (Negargar):** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`
 * **واژ:** :doc:`Vazh: Unified Language Reference | مرجع یکپارچگی زبان در اکوسیستم داده‌گرا <category/tools/vazh>`
 * **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`
 
