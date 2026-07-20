@@ -1,3 +1,12 @@
+## [0.4.6] - 2026-07-20
+
+### Added
+- **Documentation:** Added individual tool documentation pages for `dataiso`, `dizhan`, `haftkhan`, `hyperaryaland`, `iranshahr`, `karnama`, `ketabek`, `radin`, `rahnam`, `rastin`, `rastin_map`, `rayaname`, `rokhdad`, and `vangah`.
+
+### Changed
+- **Docs:** Updated `_source/tools.rst` and `_source/download.rst` to include and reference the newly added tools.
+- **Version:** Bumped project version in `VERSION` to `0.4.6`.
+
 ## [0.4.4] - 2026-07-15
 
 ### Changed

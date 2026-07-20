@@ -3,90 +3,86 @@
    :keywords: ابزارهای توزیع دیتائیست, سخت‌افزار auzar, داکیومنت‌های رسمی دیتائیست, پکیج‌منجر datapack, سیستم‌عامل هوشمند سهند, خدمات شهروندی استهبان, زیرساخت‌های dpic, پروژه‌های گیت دیتائیست
 
 ابزارهای اختصاصی توزیع دیتائیست
-========================================================================
+========================================================================================
 
-Auzar: HW Eng. & Physical Infrastructure of Smart Devs
+اوزار: مهندسی سخت‌افزار و زیرساخت فیزیکی تجهیزات هوشمند
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **داده‌پرداخت:** :doc:`ADM: Automated Data-Goy Machine | دستگاه داده‌پرداخت اتوماتیک <category/tools/adm>`
 * **دی‌پوز:** :doc:`DPOS:Data-Point Of Sale | دستگاه کارت‌خوان دی‌پوز <category/tools/dpos>`
 * **تیکان:** :doc:`Tikan:Metal Credit Card | کارت فلزی تیکان <category/tools/tikan>`
 * **متاسبلان:** :doc:`MetaSavalan:Capsule Castle House | خانه‌های پیش‌ساخته هوشمند <category/tools/metasavalan>`
 * **پروین:** :doc:`Parivin:Smart Mirror Platform | آینه هوشمند <category/tools/parivin>`
 
-Citizenship: Citizenship Application
+شهروندی: سامانه‌ و خدمات شهروندی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **استهبان‌من:** :doc:`سوپر اپلیکیشن شهروندی استهبان‌من <category/tools/my_estahban_city>`
 * **دیوار استهبان:** :doc:`سرویس دیوار استهبان <category/tools/estahban_city>`
 
-Config: Centralized System Config & Management
+کانفیگ: پیکربندی و مدیریت سیستم متمرکز
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Damavand: Stability Summit; Wisdom-Mobile Bridge
+دماوند: سیستم‌عامل برای موبایل
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **دماوند:** :doc:`Dataist Mobile | توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
 
-Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
+دیتائیست: ابزارهای مدیریتی و پایه توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-* **Central Dashboard & Core Shell - داشبورد مرکزی و هسته‌های سیستمی**
-    * **Identity & Access Management - مدیریت هویت و دسترسی**
-         * :doc:`آی‌دی‌ان‌ای: ابزار مدیریت احراز هویت در اکوسیستم | IDNA: Unique Identifier (UID) <category/tools/idna>`
-    * **Global Notification & Search Center - مرکز اعلان‌ها و جستجوی سراسری**
-         * :doc:`اویس: موتور جستجوی پیش‌فرض اکوسیستم | Evis: Search Engine <category/tools/evis>`
-    * **Unified Dashboard (Widget Hub) - داشبورد مرکزی و ویجت‌های یکپارچه**
-* **Human Capital Management (HCM)**
-    * **Payroll & Benefits - حقوق، دستمزد و مزایا**
-    * **Time & Attendance / Shift Scheduling - مدیریت حضور و غیاب و شیفت‌بندی**
-    * **Recruitment & Onboarding - جذب، استخدام و آنبوردینگ**
-    * **Performance Management & Appraisal - مدیریت عملکرد و ارزیابی**
-    * **Training & Development - آموزش و توسعه پرسنل**
-    * **Organizational Chart - چارت سازمانی و پست‌ها**
-    * **Employee Self-Service - پرتال پرسنلی**
-* **Customer Relationship Management (CRM)**
-    * **Lead & Opportunity Management - مدیریت سرنخ‌ها و فرصت‌های فروش**
-    * **Loyalty & Customer Club - باشگاه مشتریان و وفاداری**
-    * **Help Desk & Ticketing System - خدمات و پشتیبانی**
-    * **Marketing Automation - اتوماسیون بازاریابی**
-* **Office Automation & Infrastructure**
-    * **Secretariat & Correspondence System - دبیرخانه و مکاتبات اداری**
-         * :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`
-         * :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
-    * **Document Management System (DMS) - مدیریت اسناد و بایگانی الکترونیک**
-    * **Workflow Engine - اتوماسیون گردش کار**
-    * **Contract Management - مدیریت قراردادها**
-    * **Meeting & Reservation Management - مدیریت جلسات و رزرو اتاق‌ها**
-    * **Project & Task Management - مدیریت پروژه و تسک‌ها**
-    * **IT Asset Management - مدیریت اموال و تجهیزات IT**
-* **Vertical Solutions**
-    * **Education Management System - مدیریت مراکز آموزشی**
-    * **Healthcare & Clinic Management - مدیریت خدمات سلامت و کلینیک**
-    * **POS & Retail Management - مدیریت رستوران و فروشگاهی**
-    * **Real Estate Management - مدیریت املاک و مستغلات**
-    * **Fleet Management - مدیریت ناوگان حمل‌ونقل**
-    * **Hospitality & Reservation Management - مدیریت هتل‌داری و رزرواسیون**
-    * **Agriculture & Gardening Management - مدیریت کشاورزی و باغبانی**
-         * :doc:`پارس‌ژئو: شناسنامه دیجیتال درختان | ParsGeo: Intelligent Plant Landscape Identifier <category/tools/parsgeo>`
-* **E-Commerce & Service**
-    * **Catalog & Cart Management - مدیریت فروشگاه اینترنتی**
-    * **Payment Gateway & Wallet - مدیریت درگاه‌های پرداخت و کیف پول**
-         * :doc:`ویمند: کیف پول دیجیتال | VimanD:The Next-Gen Financial Super App <category/tools/vimand>`
-    * **Last-Mile Delivery Tracking - مدیریت تحویل و رهگیری سفارشات**
-* **Business Intelligence (BI) & Analytics**
-    * **Reporting Engine & Dashboards - داشبوردهای مدیریتی و گزارش‌ساز**
-    * **Demand Forecasting - پیش‌بینی موجودی و تقاضا**
-    * **Customer & Financial Data Mining - تحلیل رفتار مشتری و داده‌کاوی**
-* **Quality Management & Compliance (QMS)**
-    * **ISO & Standardization Management - مدیریت اسناد استاندارد و ایزو**
-    * **Health, Safety & Environment (HSE) - مدیریت ریسک و ایمنی محیط کار**
-    * **Legal & Tax Compliance - مدیریت انطباق قانونی و مالیاتی**
-* **Knowledge & Security Management**
-    * **Knowledge Management (Wiki/SOPs) - مدیریت دانش و دستورالعمل‌ها**
-         * :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive<category/tools/drstrategies>`
-    * **Digital Signature Service - سرویس امضای الکترونیک**
-    * **Physical Access & Security Control - حراست و کنترل تردد فیزیکی**
+* **داشبورد مرکزی و هسته‌های سیستمی - Central Dashboard & Core Shell**
+    * **مدیریت هویت و دسترسی - Identity & Access Management**
+         * **آی‌دی‌ان‌ای:** :doc:`آی‌دی‌ان‌ای: ابزار مدیریت احراز هویت در اکوسیستم | IDNA: Unique Identifier (UID) <category/tools/idna>`
+    * **مرکز اعلان‌ها و جستجوی سراسری - Global Notification & Search Center**
+         * **اویس:** :doc:`اویس: موتور جستجوی پیش‌فرض اکوسیستم | Evis: Search Engine <category/tools/evis>`
+    * **داشبورد مرکزی و ویجت‌های یکپارچه - Unified Dashboard (Widget Hub)**
+* **مدیریت سرمایه انسانی - Human Capital Management (HCM)**
+    * **حقوق، دستمزد و مزایا - Payroll & Benefits**
+    * **مدیریت حضور و غیاب و شیفت‌بندی - Time & Attendance / Shift Scheduling**
+    * **جذب، استخدام و آنبوردینگ - Recruitment & Onboarding**
+    * **مدیریت عملکرد و ارزیابی - Performance Management & Appraisal**
+    * **آموزش و توسعه پرسنل - Training & Development**
+    * **چارت سازمانی و پست‌ها - Organizational Chart**
+    * **پرتال پرسنلی - Employee Self-Service**
+* **مدیریت ارتباط با مشتری - Customer Relationship Management (CRM)**
+    * **مدیریت سرنخ‌ها و فرصت‌های فروش - Lead & Opportunity Management**
+    * **باشگاه مشتریان و وفاداری - Loyalty & Customer Club**
+    * **خدمات و پشتیبانی - Help Desk & Ticketing System**
+    * **اتوماسیون بازاریابی - Marketing Automation**
+* **اتوماسیون اداری و زیرساخت - Office Automation & Infrastructure**
+    * **دبیرخانه و مکاتبات اداری - Secretariat & Correspondence System**
+         * **دفترچه:** :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`
+         * **نگار:** :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
+    * **مدیریت اسناد و بایگانی الکترونیک - Document Management System (DMS)**
+    * **اتوماسیون گردش کار - Workflow Engine**
+    * **مدیریت قراردادها - Contract Management**
+    * **مدیریت جلسات و رزرو اتاق‌ها - Meeting & Reservation Management**
+    * **مدیریت پروژه و تسک‌ها - Project & Task Management**
+    * **مدیریت اموال و تجهیزات IT - IT Asset Management**
+* **راهکارهای عمودی - Vertical Solutions**
+    * **مدیریت مراکز آموزشی - Education Management System**
+    * **مدیریت خدمات سلامت و کلینیک - Healthcare & Clinic Management**
+    * **مدیریت رستوران و فروشگاهی - POS & Retail Management**
+    * **مدیریت املاک و مستغلات - Real Estate Management**
+    * **مدیریت ناوگان حمل‌ونقل - Fleet Management**
+    * **مدیریت هتل‌داری و رزرواسیون - Hospitality & Reservation Management**
+    * **مدیریت کشاورزی و باغبانی - Agriculture & Gardening Management**
+         * **پارس‌ژئو:** :doc:`پارس‌ژئو: شناسنامه دیجیتال درختان | ParsGeo: Intelligent Plant Landscape Identifier <category/tools/parsgeo>`
+* **تجارت الکترونیک و خدمات - E-Commerce & Service**
+    * **مدیریت فروشگاه اینترنتی - Catalog & Cart Management**
+    * **مدیریت درگاه‌های پرداخت و کیف پول - Payment Gateway & Wallet**
+         * **ویمند:** :doc:`ویمند: کیف پول دیجیتال | VimanD: The Next-Gen Financial Super App <category/tools/vimand>`
+    * **مدیریت تحویل و رهگیری سفارشات - Last-Mile Delivery Tracking**
+* **هوش تجاری و تحلیل داده - Business Intelligence (BI) & Analytics**
+    * **داشبوردهای مدیریتی و گزارش‌ساز - Reporting Engine & Dashboards**
+    * **پیش‌بینی موجودی و تقاضا - Demand Forecasting**
+    * **تحلیل رفتار مشتری و داده‌کاوی - Customer & Financial Data Mining**
+* **مدیریت کیفیت و انطباق - Quality Management & Compliance (QMS)**
+    * **مدیریت اسناد استاندارد و ایزو - ISO & Standardization Management**
+    * **مدیریت ریسک و ایمنی محیط کار - Health, Safety & Environment (HSE)**
+    * **مدیریت انطباق قانونی و مالیاتی - Legal & Tax Compliance**
+* **مدیریت دانش و امنیت - Knowledge & Security Management**
+    * **مدیریت دانش و دستورالعمل‌ها - Knowledge Management (Wiki/SOPs)**
+         * **دکتر استراتژی:** :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive <category/tools/drstrategies>`
+    * **سرویس امضای الکترونیک - Digital Signature Service**
+    * **حراست و کنترل تردد فیزیکی - Physical Access & Security Control**
    
 * **باهما:** :doc:`Bahoma: Language Model Management System | مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`
 * **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`
@@ -98,98 +94,38 @@ Dataist: OS for Data-Driven Self-Awareness & Precision Analytics
 * **میترا:** :doc:`Metacognitive Intelligence for Tracking & Reflective Analysis | دستیار اکوسیستم دیتائیست <category/tools/mitra>`
 * **هیومنیجر:** :doc:`HuMaNager: Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`
 
-Dataist Box: Core Processing & Logic for HW Ecosystem
+دیتائیست‌باکس: مجموعه سخت‌افزار برای توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **دیتاباکس:** :doc:`DataistBox: The Processing Core and Logic Governing the Hardware | جعبه دیتائیست <category/tools/dataistbox>`
 
-Datavore: Hub for Data Accumulation & Preservation
+دیتاوور (Datavore): پایگاه و ابزار‌های تجمیع و نگهداری داده‌ها
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* **مدیریت منابع سازمانی (ERP) - Enterprise Resource Planning**
+    * **مدیریت انبارداری و لجستیک - Multi-Site Warehouse Management System (WMS)**
+         * **خزانه:** :doc:`خزانه: نرم‌افزار مدیریت صندوق | Khazaneh: Treasury & Cash Management <category/tools/khazaneh>`
+         * **توشه:** :doc:`توشه: مدیریت دارایی‌ها | Toosheh: Asset Inventory Tracking <category/tools/toosheh>`
+    * **مدیریت فروش و سفارشات - Sales & Order Management**
+         * **رسیدنامه:** :doc:`رسیدنامه: سیستم فاکتورینگ | Residname: Invoice & Billing System <category/tools/residname>`
+    * **حسابداری مالی و خزانه‌داری - Financial Accounting & Treasury**
+    * **مدیریت خرید و تامین - Procurement & Sourcing**
+    * **مدیریت دارایی‌های ثابت - Fixed Asset Management**
+    * **مدیریت تولید و برنامه‌ریزی منابع - Material Requirements Planning (MRP)**
+    * **آرشیو و مدیریت محتوا (Archives & Content Management)**
+         * **دیژان:** :doc:`دیژان: آرشیو فنی و امنیت | Dizhan: Tech & Security archive <category/tools/dizhan>`
+         * **رخداد:** :doc:`رخداد: آرشیو اتفاقات و ترندهای شبکه اجتماعی | Rokhdad: Social media events & trends archive <category/tools/rokhdad>`
+         * **راهنم:** :doc:`راهنم: آرشیو مکان‌های رفته‌شده | Rahnam: Navigation & guide systems <category/tools/rahnam>`
+         * **رایانامه:** :doc:`رایانامه: آرشیو ایمیل و مکاتبات الکترونیکی | Rayaname: Email & correspondence archive <category/tools/rayaname>`
+         * **وانگاه:** :doc:`وانگاه: پلتفرم کاوش فرهنگی و جغرافیایی تعاملی | Vangah: Interactive cultural and geographic exploration platform <category/tools/vangah>`
+         * **کتابک:** :doc:`کتابک: کتابخانه دیجیتال و یادداشت‌ها مطالعه | Ketabek: Digital library & reading notes <category/tools/ketabek>`
+    * **مدیریت فردی و مستندات (Personal & Achievements)**
+         * **کارنامه:** :doc:`کارنامه: آرشیو و مستندات مهارت‌ها | Karnama: Skills & achievements portfolio <category/tools/karnama>`
+         * **رادین:** :doc:`رادین: مدیریت شخصی و مسئولیت اجتماعی | Radin: Personal management & productivity <category/tools/radin>`
+
+مستندات: راهنماهای فنی و استانداردهای توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **Enterprise Resource Planning (ERP) - مدیریت منابع سازمانی**
-    * **Multi-Site Warehouse Management System (WMS) - مدیریت انبارداری و لجستیک**
-         * :doc:`خزانه: نرم‌افزار مدیریت صندوق | Khazaneh: Treasury & Cash Management <category/tools/khazaneh>`
-         * :doc:`توشه: مدیریت دارایی‌ها | Toosheh: Asset Inventory Tracking <category/tools/toosheh>`
-    * **Sales & Order Management - مدیریت فروش و سفارشات**
-         * :doc:`رسیدنامه: سیستم فاکتورینگ | Residname: Invoice & Billing System <category/tools/residname>`
-    * **Financial Accounting & Treasury - حسابداری مالی و خزانه‌داری**
-    * **Procurement & Sourcing - مدیریت خرید و تامین**
-    * **Fixed Asset Management - مدیریت دارایی‌های ثابت**
-    * **Material Requirements Planning (MRP) - مدیریت تولید و برنامه‌ریزی منابع**
-    
-.. code-block:: text
-
-    DataVore_Master
-    ├── Knowledge (مخزن دانش)
-    │   ├── Tech & Security (فنی و امنیت)
-    │   │   ├── Code: کدهای توسعه یافته و اسکریپت‌ها
-    │   │   ├── Bugs: گزارش‌های خطا و باگ‌ها
-    │   │   ├── Malware: تحلیل‌های بدافزار
-    │   │   ├── Hack Report: گزارش‌های امنیتی
-    │   │   └── Hacker Group: اطلاعات گروه‌های هکری
-    │   ├── Skills (مهارت‌ها): آرشیو و مستندات مهارت‌های فردی
-    │   ├── Media & Writing (رسانه و نوشتار)
-    │   │   ├── Articles: مقالات و تحلیل‌ها
-    │   │   ├── Comics: لایت ناول، مانگا، منهوا, کمیک‌بوک
-    │   │   ├── Screenplay: فیلم‌نامه و نمایشنامه‌ها
-    │   │   ├── Social Content: بلاگ، پست، توییت
-    │   │   ├── Magazine & News: نشریات و اخبار
-    │   │   ├── Handwritten: یادداشت‌های دست‌نویس
-    │   │   └── Books: مدیریت کتابخانه شخصی
-    │   ├── Culture & History (فرهنگ و تاریخ)
-    │   │   ├── History: مستندات تاریخی
-    │   │   ├── Science: یافته‌های علمی
-    │   │   ├── Awards & Medals: افتخارات و دستاوردها
-    │   │   ├── Deities: اسطوره‌شناسی و خدایان
-    │   │   ├── Unusual deaths: وقایع و مرگ‌های غیرمعمول
-    │   │   └── Observances: مناسبت‌ها و آیین‌ها
-    │   ├── Social & Marketing (اجتماعی و بازاریابی)
-    │   │   ├── Purchases: مدیریت خریدهای انجام شده و فاکتورها
-    │   │   ├── Brand: هویت برند و استراتژی‌ها
-    │   │   ├── Opinion poll: نظرسنجی‌ها
-    │   │   ├── Social media genres: سبک‌های فضای مجازی
-    │   │   ├── HashTag: ترندها و کلمات کلیدی
-    │   │   └── Viral: محتوای وایرال
-    │   └── Miscellaneous (متفرقه و خلاقانه)
-    │       ├── ASMR: محتوای صوتی
-    │       ├── Jokes: سرگرمی و جوک
-    │       ├── April Fools' Day: شوخی‌های آوریل
-    │       ├── Email: آرشیو مکاتبات
-    │       ├── Lists: لیست‌های کاربردی
-    │       ├── Publishing: فرایندهای نشر
-    │       └── Social Responsibility (مسئولیت‌های اجتماعی)
-    │           ├── Donation (اهدایی ها): خون، رمزارز، پول، عضو، اسپرم
-    │           ├── Gift (هدایا): هدیه داده‌ام، هدیه گرفته‌ام، مناسب برای هدیه دادن
-    │           └── Meelopen: برنامه‌های کارآموزی/مشاهده گری شغلی
-    │
-    ├── Art (هنر)
-    │   ├── Architecture (معماری)
-    │   │   └── Iranian Architecture Based On Usage: معماری ایرانی بر اساس کاربری
-    │   ├── Dance (رقص)
-    │   │   ├── Ice: رقص روی یخ, Irani: رقص ایرانی, Reggaetón: رگاتون, Tango: تانگو, Twerk: توئرک
-    │   ├── Drawing Art (هنرهای ترسیمی)
-    │   │   ├── Calligraphy: خوشنویسی, Caricature: کاریکاتور, Painting: نقاشی, Photography: عکاسی, Tattoo: تتو
-    │   ├── Literature (ادبیات)
-    │   │   ├── 1001 Narrative, 1001 Poetry, 1001 Prose, 1001 Screenplay
-    │   ├── Performing Art (هنرهای نمایشی)
-    │   │   ├── Acrobatics, Ballet, Cinema, Circus, Clown, Concert, Gymnastique, Magic, Music: مدیریت موسیقی, Opéra, Pantomime, Philharmonia, Professional wrestling, Public speaking, Puppetry, Stand-up comedy, Ta'zieh, Theatre, Ventriloquism
-    │   └── Visual Art (هنرهای تجسمی)
-    │       ├── Knitting: بافتنی, Sculpture: مجسمه‌سازی
-    │
-    ├── Sports (ورزش و بازی ها)
-    │   ├── Board Games: بازی‌های رومیزی (Chess: شطرنج)
-    │   ├── Individual Sports: (Auto racing, Bodybuilding, Cycle Sport, Equestrian, Hunting, Martial arts, Motorcycle, Pro Wrestling, Running, Shooting, Throwing, Water Sports)
-    │   ├── Logic puzzles, Mountaineering, Paper&Pencil Games, Team Sport, Video Games
-    │
-    └── Places (مکان ها و تجربیات)
-        ├── BookStore, Caves, Coffeeshop, Country, Cycling Tips, Galleries, Historic, Lake, Natural Wonders, Nature Tour, Restaurants, Road, Streets in, Tree, Unforgettable, Walks, Waterfalls
-
-Documentation: Tech Docs & Standards for Dataist Distro
+افزونه‌ها: ابزارهای اکوسیستم و سرویس‌های جانبی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Extensions: Ecosystem tools and external utilities
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **Blender GitSculpt:** :doc:`ابزار خروجی گیت با مدل‌های سه‌بعدی <category/tools/blender_gitsculpt>`
 * **Firefox DejaVu Unseen:** :doc:`افزونه مرورگر برای حذف ویدیوهای دیده شده <category/tools/firefox_dejavu_unseen>`
 * **Code JadiMotion:** :doc:`پلاگین پروسس بار برای وی‌اس‌کد <category/tools/code_jadimotion>`
@@ -197,61 +133,58 @@ Extensions: Ecosystem tools and external utilities
 * **Sphinx Logs:** :doc:`ماژول مستندسازی خودکار برای اسفینکس <category/tools/sphinx_logs>`
 * **Sphinx Radan:** :doc:`پلاگین منو برای اسفینکس <category/tools/sphinx_radan>`
 
-Foundation: The Core Architecture of Dataist OS
+فاندیشن (Foundation): معماری هسته توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* **هسته و زیرساخت**
+    * **دیتائیست ایزو:** :doc:`Dataiso: The Dataist Infrastructure Factory | مونتاژ و زیرساخت اکوسیستم <category/tools/dataiso>`
+    * **دورموز:** :doc:`Dormuz: The Dataist Interactive Core | هسته تعاملی و شل اکوسیستم <category/tools/dormuz>`
+    * **بُن:** :doc:`Bon: The Bus of Nodes | پروتکل تبادل رویداد در اکوسیستم <category/tools/bon>`
+    * **Dotfiles:** :doc:`Your personal workflow (Hyprland, etc.) <category/tools/dotfiles>`
+    * **System Wide Config:** :doc:`Core settings (os-release, pacman, sysctl) <category/tools/system_wide_config>`
 
-* **Communication & Event Protocols**
-* **دورموز:** :doc:`Dormuz: The Dataist Interactive Core | هسته تعاملی و شل اکوسیستم <category/tools/dormuz>`
-* **بُن:** :doc:`Bon: The Bus of Nodes | پروتکل تبادل رویداد در اکوسیستم <category/tools/bon>`
-   * **Infrastructure Manifests:** :doc:`Build logic (archiso), build scripts <category/tools/infrastructure_manifests>`
-   * **System Wide Config:** :doc:`Core settings (os-release, pacman, sysctl) <category/tools/system_wide_config>`
-   * **Dotfiles:** :doc:`Your personal workflow (Hyprland, etc.) <category/tools/dotfiles>`
-   * **Theme Manifests:** :doc:`Asha Design System consistency <category/tools/theme_manifests>`
-   * **Hardware Abstraction:** :doc:`NEW: Firmware, drivers, and kernel modules <category/tools/hardware_abstraction>`
-* **Personal Logic: Automation & Workflow**
-   * **Automation Scripts:** :doc:`Scripts to sync configs and deploy <category/tools/automation_scripts>`
-   * **Custom Packages:** :doc:`Local repo management (Mitra, etc.) <category/tools/custom_packages>`
-   * **Workflow Hooks:** :doc:`Mitra integration & system events <category/tools/workflow_hooks>`
-   * **Dependency Manifests:** :doc:`NEW: pip, npm, or rust dependencies <category/tools/dependency_manifests>`
-   * **Secrets Management:** :doc:`Encrypted keys and API tokens <category/tools/secrets_management>`
-* **Personal Archive: Backups & History**
-   * **System State Backup:** :doc:`Snapshot scripts (BTRFS/Timeshift) <category/tools/system_state_backup>`
-   * **Legacy Config Logs:** :doc:`Archive of past experiments <category/tools/legacy_config_logs>`
-   * **Recovery Protocols:** :doc:`NEW: Emergency boot and repair guides <category/tools/recovery_protocols>`
-* **Documentation: Architecture & Logs**
-   * **Technical Specs:** :doc:`Architecture decisions ("The Why") <category/tools/technical_specs>`
-   * **Diagnostic Logs:** :doc:`NEW: Centralized error logs & build-fail history <category/tools/diagnostic_logs>`
+* **یکپارچه‌سازی و اتوماسیون**
+    * **Automation Scripts:** :doc:`Scripts to sync configs and deploy <category/tools/automation_scripts>`
+    * **Theme Manifests:** :doc:`Asha Design System consistency <category/tools/theme_manifests>`
+    * **Custom Packages:** :doc:`Local repo management (Mitra, etc.) <category/tools/custom_packages>`
+    * **Workflow Hooks:** :doc:`Mitra integration & system events <category/tools/workflow_hooks>`
 
-Games: Data-Driven Interactive Entertainment
+* **پایداری و عیب‌یابی**
+    * **System State Backup:** :doc:`Snapshot scripts (BTRFS/Timeshift) <category/tools/system_state_backup>`
+    * **Technical Specs:** :doc:`Architecture decisions ("The Why") <category/tools/technical_specs>`
+    * **Hardware Abstraction:** :doc:`NEW: Firmware, drivers, and kernel modules <category/tools/hardware_abstraction>`
+
+* **پشتیبانی و توسعه**
+    * **Secrets Management:** :doc:`Encrypted keys and API tokens <category/tools/secrets_management>`
+    * **Diagnostic Logs:** :doc:`NEW: Centralized error logs & build-fail history <category/tools/diagnostic_logs>`
+    * **Dependency Manifests:** :doc:`NEW: pip, npm, or rust dependencies <category/tools/dependency_manifests>`
+    * **Recovery Protocols:** :doc:`NEW: Emergency boot and repair guides <category/tools/recovery_protocols>`
+    * **Legacy Config Logs:** :doc:`Archive of past experiments <category/tools/legacy_config_logs>`
+
+بازی (Games): سرگرمی‌های تعاملیِ داده‌محور
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **jadijadi:** :doc:`Escape room <category/tools/jadijadi>`
 * **setaverse:** :doc:`GTA Clones <category/tools/setaverse>`
 
-Historical: Archive of Legacy Projects
+تاریخچه (Historical): آرشیو پروژه‌های قدیمی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Localization: Localization and Adaptation of Tools
+لوکالیزیشن (Localization): بومی‌سازی و انطباق ابزارها
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **سِتهبان:** :doc:`فونت برای اکوسیستم داده‌گرا <category/tools/setahban>`
 
-Package: Software Package Distribution & Libraries
+پکیج (Package): توزیع بسته نرم‌افزاری و کتابخانه‌ها
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Sahand: House Operating System (HOS) Smart Home
+سهند (Sahand): سیستم‌عامل (HOS) برای خانه‌های هوشمند
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **سهند:** :doc:`توزیع لینوکسی دیتائیست برای خانه‌های هوشمند <category/tools/sahand>`
 
-Scripts: Automated Data Maintenance & System Utilities
+اسکریپت‌ها: ابزارهای نگهداری داده و مدیریت خودکار سیستم
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **زیر:** :doc:`ابزار زدودنِ ناخالصی‌های نوشتاری <category/tools/zir>`
 
-Services: Management of Service Gateway & Community
+سرویس‌ها (Services): مدیریت درگاه خدمات و جامعه کاربری
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **اینستاگرام (Instagram):** `حساب رسمی دیتائیست در اینستاگرام <https://instagram.com/dataist_ir>`_
 * **گیت‌هاب (Github):** `حساب رسمی توزیع دیتائیست در گیت‌هاب <https://github.com/DataistOS>`_
 * **اهدا (Donate):** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_
@@ -269,17 +202,16 @@ Services: Management of Service Gateway & Community
 * **زولا (Zola):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_
 * **مخزن وب‌سایت دیتائیست:** :doc:`مخزن وب‌سایت رسمی دیتائیست <category/tools/www_dataist_ir>`
 
-Sima: Visual Gateway and Custom
+سیما (Sima): درگاه بصری و محیط کاربری اختصاصی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **اسفین‌کست:** :doc:`Sphinext:Documentation reader | خوانشگر مستندات در اکوسیستم داده‌گرا <category/tools/sphinext>`
 * **بلوتوث‌سی‌تی‌ال:** :doc:`Bluetoothctl: Smart Bluetooth Manager | ابزار تحلیلی مدیریت بلوتوث <category/tools/bluetoothctl>`
 * **گنجور:** :doc:`Ganjor: Persian Literature UI | رابط کاربری برای سایت گنجور <category/tools/ganjor>`
-SSOT: Single Source of Truth
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+اس‌اس‌او‌تی (SSOT): منبع واحد حقیقت (داده‌های مرجع)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * **اَشا:** :doc:`Asha: Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
-* **کاران:** :doc:Karan: Business registry | منبع حقیقت کسب و کارها <category/tools/karan>
+* **کاران:** :doc:`Karan: Business registry | منبع حقیقت کسب و کارها <category/tools/karan>`
 * **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
 * **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
 * **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
@@ -288,10 +220,10 @@ SSOT: Single Source of Truth
 * **نگارگر (Negargar):** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`
 * **واژ:** :doc:`Vazh: Unified Language Reference | مرجع یکپارچگی زبان در اکوسیستم داده‌گرا <category/tools/vazh>`
 * **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`
+* **هایپرآریالند:** :doc:`HyperAryaLand: Dataist desktop customization tailored to business | شخصی‌سازی میزکار دیتائیست متناسب با کسب‌وکار <category/tools/hyperaryaland>`
 
-Startup: Ecosystem Utilities & Scalable Infrastructures
+استارتاپ: ابزارهای اکوسیستم و زیرساخت‌های مقیاس‌پذیر
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 * **استعلامات:** :doc:`Estelamat: Bridge to Citizen Services | پل وضعیت به خدمات شهروندی <category/tools/estelamat>`
 * **انجیرسنج:** :doc:`FigScan: Intelligent Fig Variety Identifier | شناسایی هوشمند ارقام انجیر <category/tools/fig_scan>`
 * **ایران‌اکسس:** :doc:`IranAccess: Network Accessibility Monitor | وضعیت شبکه ایران <category/tools/iranaccess>`
@@ -309,8 +241,12 @@ Startup: Ecosystem Utilities & Scalable Infrastructures
 * **نت‌اکو:** :doc:`NetEcho: Web Interaction Echo | انتشار متن در هر کجای اینترنت <category/tools/netecho>`
 * **ویس:** :doc:`Veys: Smart Companion for Digital Nomads | همراه هوشمند عشایر دیجیتال <category/tools/veys>`
 * **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`
+* **راستین:** :doc:`Rastin: Sport-focused social network | شبکه اجتماعی ورزش‌محور <category/tools/rastin>`
+* **نقشه راستین:** :doc:`Rastin Map: Sport mapping and spatial tracking | نقشه‌برداری ورزشی و ردیابی مکانی <category/tools/rastin_map>`
+* **ایران‌شهر:** :doc:`IranShahr: International Image Interoperability Framework (IIIF) service | سرویس استاندارد تعامل‌پذیری <category/tools/iranshahr>`
+* **هفت خان:** :doc:`HaftKhan: Challenge tracker & lists | ابزار پیگیری چالش‌ها و لیست‌ها <category/tools/haftkhan>`
 
-Checklist: Fetches the latest from the datapackverse
+به‌روزرسانی: آخرین نسخه ابزارها با دیتاپک‌ورس
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. include:: ../_templates/checklist/checklist_remote.rst
