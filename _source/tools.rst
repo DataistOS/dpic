@@ -20,6 +20,10 @@
 
 کانفیگ: پیکربندی و مدیریت سیستم متمرکز
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* **ویمیست:** :doc:`Vimist: Clean and optimized Vim/Neovim configuration | تنظیمات پاکیزه و بهینه‌شده ویم و نئویم <category/tools/vimist>`
+* **نیوفچ:** :doc:`Neofetch: System information tool | نمایش اطلاعات سیستم <category/tools/neofetch>`
+* **گیت‌هاب:** :doc:`GitHub: Configurations and templates | تنظیمات و قالب‌های گیت‌هاب <category/tools/github>`
+* **دیتافلو:** :doc:`Dataflow: Streamlined GitHub Actions configurations for CI/CD | پیکربندی‌های بهینه‌شده گیت‌هاب اکشن برای CI/CD <category/tools/dataflow>`
 
 دماوند: سیستم‌عامل برای موبایل
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -47,8 +51,11 @@
     * **خدمات و پشتیبانی - Help Desk & Ticketing System**
     * **اتوماسیون بازاریابی - Marketing Automation**
 * **اتوماسیون اداری و زیرساخت - Office Automation & Infrastructure**
+         * **پارسوا:** :doc:`Parsva: Reliable system backup and snapshot utility | مطمئن پشتیبان‌گیری و اسنپ‌شات سیستم <category/tools/parsva>`
+         * **دیتاسینک:** :doc:`Datasync: Android companion utility for data synchronization | همگام‌سازی و انتقال داده <category/tools/datasync>`
     * **دبیرخانه و مکاتبات اداری - Secretariat & Correspondence System**
          * **دفترچه:** :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`
+         * **روز:** :doc:`Rouz: Lightweight and elegant calendar tool | تقویم سبک و زیبا برای مدیریت زمان <category/tools/rouz>`
          * **نگار:** :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
     * **مدیریت اسناد و بایگانی الکترونیک - Document Management System (DMS)**
     * **اتوماسیون گردش کار - Workflow Engine**
@@ -217,10 +224,11 @@
 * **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
 * **دیتاپک‌ورس:** :doc:`Datapackverse: Intelligent Software Registry | هسته مرکزی ابزارها و پایش نسخه‌ها <category/tools/datapackverse>`
 * **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
-* **نگارگر (Negargar):** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`
+* **نگارگر:** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`
 * **واژ:** :doc:`Vazh: Unified Language Reference | مرجع یکپارچگی زبان در اکوسیستم داده‌گرا <category/tools/vazh>`
 * **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`
 * **هایپرآریالند:** :doc:`HyperAryaLand: Dataist desktop customization tailored to business | شخصی‌سازی میزکار دیتائیست متناسب با کسب‌وکار <category/tools/hyperaryaland>`
+* **آرگنیکس:** :doc:`Argenix: Smart pricing engine for product value calculation | موتور هوشمند قیمت‌گذاری و محاسبه ارزش محصول <category/tools/argenix>`
 
 استارتاپ: ابزارهای اکوسیستم و زیرساخت‌های مقیاس‌پذیر
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -245,6 +253,8 @@
 * **نقشه راستین:** :doc:`Rastin Map: Sport mapping and spatial tracking | نقشه‌برداری ورزشی و ردیابی مکانی <category/tools/rastin_map>`
 * **ایران‌شهر:** :doc:`IranShahr: International Image Interoperability Framework (IIIF) service | سرویس استاندارد تعامل‌پذیری <category/tools/iranshahr>`
 * **هفت خان:** :doc:`HaftKhan: Challenge tracker & lists | ابزار پیگیری چالش‌ها و لیست‌ها <category/tools/haftkhan>`
+* **بلودریمز:** :doc:`Bludreams: Sleep-focused tracker and community platform | ابزار خواب‌محور و پلتفرم اجتماعی خواب <category/tools/bludreams>`
+* **آوند:** :doc:`Avand: All-in-one observability and system health tool | ابزار جامع پایش ترافیک و سلامت سیستم <category/tools/avand>`
 
 به‌روزرسانی: آخرین نسخه ابزارها با دیتاپک‌ورس
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
