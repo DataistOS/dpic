@@ -7,27 +7,27 @@
 
 اوزار: مهندسی سخت‌افزار و زیرساخت فیزیکی تجهیزات هوشمند
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **داده‌پرداخت:** :doc:`ADM: Automated Data-Goy Machine | دستگاه داده‌پرداخت اتوماتیک <category/tools/adm>`
-* **دی‌پوز:** :doc:`DPOS:Data-Point Of Sale | دستگاه کارت‌خوان دی‌پوز <category/tools/dpos>`
-* **تیکان:** :doc:`Tikan:Metal Credit Card | کارت فلزی تیکان <category/tools/tikan>`
-* **متاسبلان:** :doc:`MetaSavalan:Capsule Castle House | خانه‌های پیش‌ساخته هوشمند <category/tools/metasavalan>`
-* **پروین:** :doc:`Parivin:Smart Mirror Platform | آینه هوشمند <category/tools/parivin>`
+* **داده‌پرداخت:** :doc:`ADM: Automated Data-Goy Machine | دستگاه داده‌پرداخت اتوماتیک <category/tools/adm>`	🔥️
+* **دی‌پوز:** :doc:`DPOS:Data-Point Of Sale | دستگاه کارت‌خوان دی‌پوز <category/tools/dpos>`	🔥️
+* **تیکان:** :doc:`Tikan:Metal Credit Card | کارت فلزی تیکان <category/tools/tikan>`	🔥️
+* **متاسبلان:** :doc:`MetaSavalan:Capsule Castle House | خانه‌های پیش‌ساخته هوشمند <category/tools/metasavalan>`	🔥️
+* **پروین:** :doc:`Parivin:Smart Mirror Platform | آینه هوشمند <category/tools/parivin>`	🔥️
 
 شهروندی: سامانه‌ و خدمات شهروندی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **استهبان‌من:** :doc:`سوپر اپلیکیشن شهروندی استهبان‌من <category/tools/my_estahban_city>`
-* **دیوار استهبان:** :doc:`سرویس دیوار استهبان <category/tools/estahban_city>`
+* **استهبان‌من:** :doc:`سوپر اپلیکیشن شهروندی استهبان‌من <category/tools/my_estahban_city>`	🔥️
+* **دیوار استهبان:** :doc:`سرویس دیوار استهبان <category/tools/estahban_city>`	🔥️
 
 کانفیگ: پیکربندی و مدیریت سیستم متمرکز
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **ویمیست:** :doc:`Vimist: Clean and optimized Vim/Neovim configuration | تنظیمات پاکیزه و بهینه‌شده ویم و نئویم <category/tools/vimist>`
-* **نیوفچ:** :doc:`Neofetch: System information tool | نمایش اطلاعات سیستم <category/tools/neofetch>`
-* **گیت‌هاب:** :doc:`GitHub: Configurations and templates | تنظیمات و قالب‌های گیت‌هاب <category/tools/github>`
-* **دیتافلو:** :doc:`Dataflow: Streamlined GitHub Actions configurations for CI/CD | پیکربندی‌های بهینه‌شده گیت‌هاب اکشن برای CI/CD <category/tools/dataflow>`
+* **ویمیست:** :doc:`Vimist: Clean and optimized Vim/Neovim configuration | تنظیمات پاکیزه و بهینه‌شده ویم و نئویم <category/tools/vimist>`	🔥️
+* **نیوفچ:** :doc:`Neofetch: System information tool | نمایش اطلاعات سیستم <category/tools/neofetch>`	🔥️
+* **گیت‌هاب:** :doc:`GitHub: Configurations and templates | تنظیمات و قالب‌های گیت‌هاب <category/tools/github>`	🔥️
+* **دیتافلو:** :doc:`Dataflow: Streamlined GitHub Actions configurations for CI/CD | پیکربندی‌های بهینه‌شده گیت‌هاب اکشن برای CI/CD <category/tools/dataflow>`	🔥️
 
 دماوند: سیستم‌عامل برای موبایل
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **دماوند:** :doc:`Dataist Mobile | توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`
+* **دماوند:** :doc:`Dataist Mobile | توزیع لینوکسی دیتائیست برای موبایل <category/tools/damavand>`	🔥️
 
 دیتائیست: ابزارهای مدیریتی و پایه توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -35,7 +35,7 @@
     * **مدیریت هویت و دسترسی - Identity & Access Management**
          * **آی‌دی‌ان‌ای:** :doc:`آی‌دی‌ان‌ای: ابزار مدیریت احراز هویت در اکوسیستم | IDNA: Unique Identifier (UID) <category/tools/idna>`
     * **مرکز اعلان‌ها و جستجوی سراسری - Global Notification & Search Center**
-         * **اویس:** :doc:`اویس: موتور جستجوی پیش‌فرض اکوسیستم | Evis: Search Engine <category/tools/evis>`
+         * **اویس:** :doc:`اویس: موتور جستجوی پیش‌فرض اکوسیستم | Evis: Search Engine <category/tools/evis>`	🔥️
     * **داشبورد مرکزی و ویجت‌های یکپارچه - Unified Dashboard (Widget Hub)**
 * **مدیریت سرمایه انسانی - Human Capital Management (HCM)**
     * **حقوق، دستمزد و مزایا - Payroll & Benefits**
@@ -51,12 +51,12 @@
     * **خدمات و پشتیبانی - Help Desk & Ticketing System**
     * **اتوماسیون بازاریابی - Marketing Automation**
 * **اتوماسیون اداری و زیرساخت - Office Automation & Infrastructure**
-         * **پارسوا:** :doc:`Parsva: Reliable system backup and snapshot utility | مطمئن پشتیبان‌گیری و اسنپ‌شات سیستم <category/tools/parsva>`
-         * **دیتاسینک:** :doc:`Datasync: Android companion utility for data synchronization | همگام‌سازی و انتقال داده <category/tools/datasync>`
+         * **پارسوا:** :doc:`Parsva: Reliable system backup and snapshot utility | مطمئن پشتیبان‌گیری و اسنپ‌شات سیستم <category/tools/parsva>`	🔥️
+         * **دیتاسینک:** :doc:`Datasync: Android companion utility for data synchronization | همگام‌سازی و انتقال داده <category/tools/datasync>`	🔥️
     * **دبیرخانه و مکاتبات اداری - Secretariat & Correspondence System**
-         * **دفترچه:** :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`
-         * **روز:** :doc:`Rouz: Lightweight and elegant calendar tool | تقویم سبک و زیبا برای مدیریت زمان <category/tools/rouz>`
-         * **نگار:** :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`
+         * **دفترچه:** :doc:`دفترچه: مدیریت مخاطبین | Daftarche: Contact Management System <category/tools/daftarche>`	🔥️
+         * **روز:** :doc:`Rouz: Lightweight and elegant calendar tool | تقویم سبک و زیبا برای مدیریت زمان <category/tools/rouz>`	🔥️
+         * **نگار:** :doc:`نگار: لوکال‌بوک (آرشیو سوشال مدیا) | Negar: Social Media Archive <category/tools/negar>`	🔥️
     * **مدیریت اسناد و بایگانی الکترونیک - Document Management System (DMS)**
     * **اتوماسیون گردش کار - Workflow Engine**
     * **مدیریت قراردادها - Contract Management**
@@ -71,11 +71,11 @@
     * **مدیریت ناوگان حمل‌ونقل - Fleet Management**
     * **مدیریت هتل‌داری و رزرواسیون - Hospitality & Reservation Management**
     * **مدیریت کشاورزی و باغبانی - Agriculture & Gardening Management**
-         * **پارس‌ژئو:** :doc:`پارس‌ژئو: شناسنامه دیجیتال درختان | ParsGeo: Intelligent Plant Landscape Identifier <category/tools/parsgeo>`
+         * **پارس‌ژئو:** :doc:`پارس‌ژئو: شناسنامه دیجیتال درختان | ParsGeo: Intelligent Plant Landscape Identifier <category/tools/parsgeo>`	🔥️
 * **تجارت الکترونیک و خدمات - E-Commerce & Service**
     * **مدیریت فروشگاه اینترنتی - Catalog & Cart Management**
     * **مدیریت درگاه‌های پرداخت و کیف پول - Payment Gateway & Wallet**
-         * **ویمند:** :doc:`ویمند: کیف پول دیجیتال | VimanD: The Next-Gen Financial Super App <category/tools/vimand>`
+         * **ویمند:** :doc:`ویمند: کیف پول دیجیتال | VimanD: The Next-Gen Financial Super App <category/tools/vimand>`	🔥️
     * **مدیریت تحویل و رهگیری سفارشات - Last-Mile Delivery Tracking**
 * **هوش تجاری و تحلیل داده - Business Intelligence (BI) & Analytics**
     * **داشبوردهای مدیریتی و گزارش‌ساز - Reporting Engine & Dashboards**
@@ -87,19 +87,19 @@
     * **مدیریت انطباق قانونی و مالیاتی - Legal & Tax Compliance**
 * **مدیریت دانش و امنیت - Knowledge & Security Management**
     * **مدیریت دانش و دستورالعمل‌ها - Knowledge Management (Wiki/SOPs)**
-         * **دکتر استراتژی:** :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive <category/tools/drstrategies>`
+         * **دکتر استراتژی:** :doc:`دکتر استراتژی: آرشیو اندیشه‌های راهبردی | DrStrategies: Strategic Thoughts Archive <category/tools/drstrategies>`	🔥️
     * **سرویس امضای الکترونیک - Digital Signature Service**
     * **حراست و کنترل تردد فیزیکی - Physical Access & Security Control**
    
-* **باهما:** :doc:`Bahoma: Language Model Management System | مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`
-* **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`
-* **دپی:** :doc:`Dopy:Alternative TeraCopy | نرم‌افزار سیستمی برای مدیریت هوشمند کپی فایل‌ها <category/tools/dopy>`
-* **دیتائیزم‌آرت:** :doc:`DataismArt: Data-Driven Art Exhibition Guide | مستندات نمایشگاه‌های هنری داده‌محور <category/tools/dataism_art>`
-* **دیتاپک:** :doc:`DataPack: Manage Your Tools with Ease | مدیریت پکیج‌ها و نصب ابزارها <category/tools/datapack>`
-* **کاوش:** :doc:`Kavosh: Interactive Data Analysis Environment | محیط تعاملی پردازش داده‌ها <category/tools/kavosh>`
-* **مترا:** :doc:`Metra: Dataist Pricing Calculator | ماشین حساب برای محاسبه طرح‌های درآمدی <category/tools/metra>`
-* **میترا:** :doc:`Metacognitive Intelligence for Tracking & Reflective Analysis | دستیار اکوسیستم دیتائیست <category/tools/mitra>`
-* **هیومنیجر:** :doc:`HuMaNager: Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`
+* **باهما:** :doc:`Bahoma: Language Model Management System | مدیریت مدل‌های زبانی باهما <category/tools/bahoma>`	🔥️
+* **پیک:** :doc:`Peyk:delivers messages faster | پیام‌رسان برای ارتباط‌ها <category/tools/peyk>`	🔥️
+* **دپی:** :doc:`Dopy:Alternative TeraCopy | نرم‌افزار سیستمی برای مدیریت هوشمند کپی فایل‌ها <category/tools/dopy>`	🔥️
+* **دیتائیزم‌آرت:** :doc:`DataismArt: Data-Driven Art Exhibition Guide | مستندات نمایشگاه‌های هنری داده‌محور <category/tools/dataism_art>`	🔥️
+* **دیتاپک:** :doc:`DataPack: Manage Your Tools with Ease | مدیریت پکیج‌ها و نصب ابزارها <category/tools/datapack>`	🔥️
+* **کاوش:** :doc:`Kavosh: Interactive Data Analysis Environment | محیط تعاملی پردازش داده‌ها <category/tools/kavosh>`	🔥️
+* **مترا:** :doc:`Metra: Dataist Pricing Calculator | ماشین حساب برای محاسبه طرح‌های درآمدی <category/tools/metra>`	🔥️
+* **میترا:** :doc:`Metacognitive Intelligence for Tracking & Reflective Analysis | دستیار اکوسیستم دیتائیست <category/tools/mitra>`	🔥️
+* **هیومنیجر:** :doc:`HuMaNager: Next-gen file explorer | مدیریت فایل‌ها به‌صورت ساختار آناتومی بدن انسان <category/tools/humanager>`	🔥️
 
 دیتائیست‌باکس: مجموعه سخت‌افزار برای توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,153 +109,162 @@
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * **مدیریت منابع سازمانی (ERP) - Enterprise Resource Planning**
     * **مدیریت انبارداری و لجستیک - Multi-Site Warehouse Management System (WMS)**
-         * **خزانه:** :doc:`خزانه: نرم‌افزار مدیریت صندوق | Khazaneh: Treasury & Cash Management <category/tools/khazaneh>`
-         * **توشه:** :doc:`توشه: مدیریت دارایی‌ها | Toosheh: Asset Inventory Tracking <category/tools/toosheh>`
+         * **خزانه:** :doc:`خزانه: نرم‌افزار مدیریت صندوق | Khazaneh: Treasury & Cash Management <category/tools/khazaneh>`	🔥️
+         * **توشه:** :doc:`توشه: مدیریت دارایی‌ها | Toosheh: Asset Inventory Tracking <category/tools/toosheh>`	🔥️
     * **مدیریت فروش و سفارشات - Sales & Order Management**
-         * **رسیدنامه:** :doc:`رسیدنامه: سیستم فاکتورینگ | Residname: Invoice & Billing System <category/tools/residname>`
+         * **رسیدنامه:** :doc:`رسیدنامه: سیستم فاکتورینگ | Residname: Invoice & Billing System <category/tools/residname>`	🔥️
     * **حسابداری مالی و خزانه‌داری - Financial Accounting & Treasury**
     * **مدیریت خرید و تامین - Procurement & Sourcing**
     * **مدیریت دارایی‌های ثابت - Fixed Asset Management**
     * **مدیریت تولید و برنامه‌ریزی منابع - Material Requirements Planning (MRP)**
     * **آرشیو و مدیریت محتوا (Archives & Content Management)**
-         * **دیژان:** :doc:`دیژان: آرشیو فنی و امنیت | Dizhan: Tech & Security archive <category/tools/dizhan>`
-         * **رخداد:** :doc:`رخداد: آرشیو اتفاقات و ترندهای شبکه اجتماعی | Rokhdad: Social media events & trends archive <category/tools/rokhdad>`
-         * **راهنم:** :doc:`راهنم: آرشیو مکان‌های رفته‌شده | Rahnam: Navigation & guide systems <category/tools/rahnam>`
-         * **رایانامه:** :doc:`رایانامه: آرشیو ایمیل و مکاتبات الکترونیکی | Rayaname: Email & correspondence archive <category/tools/rayaname>`
-         * **وانگاه:** :doc:`وانگاه: پلتفرم کاوش فرهنگی و جغرافیایی تعاملی | Vangah: Interactive cultural and geographic exploration platform <category/tools/vangah>`
-         * **کتابک:** :doc:`کتابک: کتابخانه دیجیتال و یادداشت‌ها مطالعه | Ketabek: Digital library & reading notes <category/tools/ketabek>`
+         * **دیژان:** :doc:`دیژان: آرشیو فنی و امنیت | Dizhan: Tech & Security archive <category/tools/dizhan>`	🔥️
+         * **رخداد:** :doc:`رخداد: آرشیو اتفاقات و ترندهای شبکه اجتماعی | Rokhdad: Social media events & trends archive <category/tools/rokhdad>`	🔥️
+         * **راهنم:** :doc:`راهنم: آرشیو مکان‌های رفته‌شده | Rahnam: Navigation & guide systems <category/tools/rahnam>`	🔥️
+         * **رایانامه:** :doc:`رایانامه: آرشیو ایمیل و مکاتبات الکترونیکی | Rayaname: Email & correspondence archive <category/tools/rayaname>`	🔥️
+         * **وانگاه:** :doc:`وانگاه: پلتفرم کاوش فرهنگی و جغرافیایی تعاملی | Vangah: Interactive cultural and geographic exploration platform <category/tools/vangah>`	🔥️
+         * **کتابک:** :doc:`کتابک: کتابخانه دیجیتال و یادداشت‌ها مطالعه | Ketabek: Digital library & reading notes <category/tools/ketabek>`	🔥️
     * **مدیریت فردی و مستندات (Personal & Achievements)**
-         * **کارنامه:** :doc:`کارنامه: آرشیو و مستندات مهارت‌ها | Karnama: Skills & achievements portfolio <category/tools/karnama>`
-         * **رادین:** :doc:`رادین: مدیریت شخصی و مسئولیت اجتماعی | Radin: Personal management & productivity <category/tools/radin>`
+         * **کارنامه:** :doc:`کارنامه: آرشیو و مستندات مهارت‌ها | Karnama: Skills & achievements portfolio <category/tools/karnama>`	🔥️
+         * **رادین:** :doc:`رادین: مدیریت شخصی و مسئولیت اجتماعی | Radin: Personal management & productivity <category/tools/radin>`	🔥️
 
 مستندات: راهنماهای فنی و استانداردهای توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 افزونه‌ها: ابزارهای اکوسیستم و سرویس‌های جانبی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **Blender GitSculpt:** :doc:`ابزار خروجی گیت با مدل‌های سه‌بعدی <category/tools/blender_gitsculpt>`
-* **Firefox DejaVu Unseen:** :doc:`افزونه مرورگر برای حذف ویدیوهای دیده شده <category/tools/firefox_dejavu_unseen>`
-* **Code JadiMotion:** :doc:`پلاگین پروسس بار برای وی‌اس‌کد <category/tools/code_jadimotion>`
-* **Idea JadiMotion:** :doc:`پروسس بار برای جت‌برینز <category/tools/idea_jadimotion>`
-* **Sphinx Logs:** :doc:`ماژول مستندسازی خودکار برای اسفینکس <category/tools/sphinx_logs>`
-* **Sphinx Radan:** :doc:`پلاگین منو برای اسفینکس <category/tools/sphinx_radan>`
+* **Blender GitSculpt:** :doc:`ابزار خروجی گیت با مدل‌های سه‌بعدی <category/tools/blender_gitsculpt>`	🔥️
+* **Firefox DejaVu Unseen:** :doc:`افزونه مرورگر برای حذف ویدیوهای دیده شده <category/tools/firefox_dejavu_unseen>`	🔥️
+* **Code JadiMotion:** :doc:`پلاگین پروسس بار برای وی‌اس‌کد <category/tools/code_jadimotion>`	🔥️
+* **Idea JadiMotion:** :doc:`پروسس بار برای جت‌برینز <category/tools/idea_jadimotion>`	🔥️
+* **Sphinx Logs:** :doc:`ماژول مستندسازی خودکار برای اسفینکس <category/tools/sphinx_logs>`	🔥️
+* **Sphinx Radan:** :doc:`پلاگین منو برای اسفینکس <category/tools/sphinx_radan>`	🔥️
 
 فاندیشن (Foundation): معماری هسته توزیع دیتائیست
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * **هسته و زیرساخت**
-    * **دیتائیست ایزو:** :doc:`Dataiso: The Dataist Infrastructure Factory | مونتاژ و زیرساخت اکوسیستم <category/tools/dataiso>`
-    * **دورموز:** :doc:`Dormuz: The Dataist Interactive Core | هسته تعاملی و شل اکوسیستم <category/tools/dormuz>`
-    * **بُن:** :doc:`Bon: The Bus of Nodes | پروتکل تبادل رویداد در اکوسیستم <category/tools/bon>`
-    * **Dotfiles:** :doc:`Your personal workflow (Hyprland, etc.) <category/tools/dotfiles>`
-    * **System Wide Config:** :doc:`Core settings (os-release, pacman, sysctl) <category/tools/system_wide_config>`
+    * **دیتائیست ایزو:** :doc:`Dataiso: The Dataist Infrastructure Factory | مونتاژ و زیرساخت اکوسیستم <category/tools/dataiso>`	🔥️
+    * **دورموز:** :doc:`Dormuz: The Dataist Interactive Core | هسته تعاملی و شل اکوسیستم <category/tools/dormuz>`	🔥️
+    * **بُن:** :doc:`Bon: The Bus of Nodes | پروتکل تبادل رویداد در اکوسیستم <category/tools/bon>`	🔥️
+    * **Dotfiles:** :doc:`Your personal workflow (Hyprland, etc.) <category/tools/dotfiles>`	🔥️
+    * **System Wide Config:** :doc:`Core settings (os-release, pacman, sysctl) <category/tools/system_wide_config>`	🔥️
 
 * **یکپارچه‌سازی و اتوماسیون**
-    * **Automation Scripts:** :doc:`Scripts to sync configs and deploy <category/tools/automation_scripts>`
-    * **Theme Manifests:** :doc:`Asha Design System consistency <category/tools/theme_manifests>`
-    * **Custom Packages:** :doc:`Local repo management (Mitra, etc.) <category/tools/custom_packages>`
-    * **Workflow Hooks:** :doc:`Mitra integration & system events <category/tools/workflow_hooks>`
+    * **Automation Scripts:** :doc:`Scripts to sync configs and deploy <category/tools/automation_scripts>`	🔥️
+    * **Theme Manifests:** :doc:`Asha Design System consistency <category/tools/theme_manifests>`	🔥️
+    * **Custom Packages:** :doc:`Local repo management (Mitra, etc.) <category/tools/custom_packages>`	🔥️
+    * **Workflow Hooks:** :doc:`Mitra integration & system events <category/tools/workflow_hooks>`	🔥️
 
 * **پایداری و عیب‌یابی**
-    * **System State Backup:** :doc:`Snapshot scripts (BTRFS/Timeshift) <category/tools/system_state_backup>`
-    * **Technical Specs:** :doc:`Architecture decisions ("The Why") <category/tools/technical_specs>`
-    * **Hardware Abstraction:** :doc:`NEW: Firmware, drivers, and kernel modules <category/tools/hardware_abstraction>`
+    * **System State Backup:** :doc:`Snapshot scripts (BTRFS/Timeshift) <category/tools/system_state_backup>`	🔥️
+    * **Technical Specs:** :doc:`Architecture decisions ("The Why") <category/tools/technical_specs>`	🔥️
+    * **Hardware Abstraction:** :doc:`NEW: Firmware, drivers, and kernel modules <category/tools/hardware_abstraction>`	🔥️
 
 * **پشتیبانی و توسعه**
-    * **Secrets Management:** :doc:`Encrypted keys and API tokens <category/tools/secrets_management>`
-    * **Diagnostic Logs:** :doc:`NEW: Centralized error logs & build-fail history <category/tools/diagnostic_logs>`
-    * **Dependency Manifests:** :doc:`NEW: pip, npm, or rust dependencies <category/tools/dependency_manifests>`
-    * **Recovery Protocols:** :doc:`NEW: Emergency boot and repair guides <category/tools/recovery_protocols>`
-    * **Legacy Config Logs:** :doc:`Archive of past experiments <category/tools/legacy_config_logs>`
+    * **Secrets Management:** :doc:`Encrypted keys and API tokens <category/tools/secrets_management>`	🔥️
+    * **Diagnostic Logs:** :doc:`NEW: Centralized error logs & build-fail history <category/tools/diagnostic_logs>`	🔥️
+    * **Dependency Manifests:** :doc:`NEW: pip, npm, or rust dependencies <category/tools/dependency_manifests>`	🔥️
+    * **Recovery Protocols:** :doc:`NEW: Emergency boot and repair guides <category/tools/recovery_protocols>`	🔥️
+    * **Legacy Config Logs:** :doc:`Archive of past experiments <category/tools/legacy_config_logs>`	🔥️
 
 بازی (Games): سرگرمی‌های تعاملیِ داده‌محور
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **jadijadi:** :doc:`Escape room <category/tools/jadijadi>`
-* **setaverse:** :doc:`GTA Clones <category/tools/setaverse>`
+* **jadijadi:** :doc:`Escape room <category/tools/jadijadi>`	🔥️
+* **setaverse:** :doc:`GTA Clones <category/tools/setaverse>`	🔥️
 
 تاریخچه (Historical): آرشیو پروژه‌های قدیمی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 لوکالیزیشن (Localization): بومی‌سازی و انطباق ابزارها
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **سِتهبان:** :doc:`فونت برای اکوسیستم داده‌گرا <category/tools/setahban>`
+* **سِتهبان:** :doc:`فونت برای اکوسیستم داده‌گرا <category/tools/setahban>`	🔥️
 
 پکیج (Package): توزیع بسته نرم‌افزاری و کتابخانه‌ها
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 سهند (Sahand): سیستم‌عامل (HOS) برای خانه‌های هوشمند
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **سهند:** :doc:`توزیع لینوکسی دیتائیست برای خانه‌های هوشمند <category/tools/sahand>`
+* **سهند:** :doc:`توزیع لینوکسی دیتائیست برای خانه‌های هوشمند <category/tools/sahand>`	🔥️
 
 اسکریپت‌ها: ابزارهای نگهداری داده و مدیریت خودکار سیستم
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **زیر:** :doc:`ابزار زدودنِ ناخالصی‌های نوشتاری <category/tools/zir>`
+* **زیر:**:doc:`Zir: A diacritic cleaner | ابزار زدودن ناخالصی‌های نوشتاری <category/tools/zir>`
 
 سرویس‌ها (Services): مدیریت درگاه خدمات و جامعه کاربری
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **اینستاگرام (Instagram):** `حساب رسمی دیتائیست در اینستاگرام <https://instagram.com/dataist_ir>`_
-* **گیت‌هاب (Github):** `حساب رسمی توزیع دیتائیست در گیت‌هاب <https://github.com/DataistOS>`_
-* **اهدا (Donate):** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_
-* **اسفینکس (Sphinx):** `کتاب آنلاین دی‌پیک <https://dpic.dataist.ir>`_
-* **اکسکالی‌دِرا (Excalidraw):** `ابزار تخته‌سفید مجازی <https://excalidraw.dataist.ir>`_ (نسخه آرشیو)
-* **دیسکورس (Discourse):** `پلتفرم انجمن گفتگو <https://forum.dataist.ir>`_ (نسخه آرشیو)
-* **گیتیا (Gitea):** `مخزن رسمی دیتائیست <https://git.dataist.ir>`_ (نسخه آرشیو)
-* **اصالت‌سنجی (Authentication):** `سرویس احراز هویت کاربران <https://idna.dataist.ir>`_
-* **جیتسی (Jitsi):** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_
-* **نکس (NextCloud):** `سرویس راهکار سازمانی <https://next.dataist.ir>`_
-* **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_
-* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir>`
-* **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)
-* **وردپرس (WordPress):** `وب‌سایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)
-* **زولا (Zola):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_
-* **مخزن وب‌سایت دیتائیست:** :doc:`مخزن وب‌سایت رسمی دیتائیست <category/tools/www_dataist_ir>`
+* **اینستاگرام (Instagram):** `حساب رسمی دیتائیست در اینستاگرام <https://instagram.com/dataist_ir>`_	🔥️
+* **گیت‌هاب (Github):** `حساب رسمی توزیع دیتائیست در گیت‌هاب <https://github.com/DataistOS>`_	🔥️
+* **اهدا (Donate):** `سرویس اهدا به اکوسیستم <https://donate.dataist.ir>`_	🔥️
+* **اسفینکس (Sphinx):** `کتاب آنلاین دی‌پیک <https://dpic.dataist.ir>`_	🔥️
+* **اکسکالی‌دِرا (Excalidraw):** `ابزار تخته‌سفید مجازی <https://excalidraw.dataist.ir>`_ (نسخه آرشیو)	🔥️
+* **دیسکورس (Discourse):** `پلتفرم انجمن گفتگو <https://forum.dataist.ir>`_ (نسخه آرشیو)	🔥️
+* **گیتیا (Gitea):** `مخزن رسمی دیتائیست <https://git.dataist.ir>`_ (نسخه آرشیو)	🔥️
+* **اصالت‌سنجی (Authentication):** `سرویس احراز هویت کاربران <https://idna.dataist.ir>`_	🔥️
+* **جیتسی (Jitsi):** `ابزار تماس و نشست‌ها <https://meet.dataist.ir>`_	🔥️
+* **نکس (NextCloud):** `سرویس راهکار سازمانی <https://next.dataist.ir>`_	🔥️
+* **کوما (UptimeKoma):** `مانیتورینگ زنده سرویس‌ها <https://status.dataist.ir>`_	🔥️
+* **پیکربندی کوما (UptimeKoma):** :doc:`status_dataist_ir | پیکربندی‌های مانیتورینگ کوما <category/tools/status_dataist_ir>`	🔥️
+* **ویکی (Wiki.jS):** `پلتفرم مستندسازی دیتائیست <https://wiki.dataist.ir>`_ (نسخه آرشیو)	🔥️
+* **وردپرس (WordPress):** `وب‌سایت رسمی دیتائیست <https://wp.dataist.ir>`_ (نسخه آرشیو)	🔥️
+* **زولا (Zola):** `وب‌سایت رسمی دیتائیست <https://dataist.ir>`_	🔥️
+* **مخزن وب‌سایت دیتائیست:** :doc:`مخزن وب‌سایت رسمی دیتائیست <category/tools/www_dataist_ir>`	🔥️
 
 سیما (Sima): درگاه بصری و محیط کاربری اختصاصی
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **اسفین‌کست:** :doc:`Sphinext:Documentation reader | خوانشگر مستندات در اکوسیستم داده‌گرا <category/tools/sphinext>`
-* **بلوتوث‌سی‌تی‌ال:** :doc:`Bluetoothctl: Smart Bluetooth Manager | ابزار تحلیلی مدیریت بلوتوث <category/tools/bluetoothctl>`
-* **گنجور:** :doc:`Ganjor: Persian Literature UI | رابط کاربری برای سایت گنجور <category/tools/ganjor>`
+* **اسفین‌کست:** :doc:`Sphinext:Documentation reader | خوانشگر مستندات در اکوسیستم داده‌گرا <category/tools/sphinext>`	🔥️
+* **بلوتوث‌سی‌تی‌ال:** :doc:`Bluetoothctl: Smart Bluetooth Manager | ابزار تحلیلی مدیریت بلوتوث <category/tools/bluetoothctl>`	🔥️
+* **گنجور:** :doc:`Ganjor: Persian Literature UI | رابط کاربری برای سایت گنجور <category/tools/ganjor>`	🔥️
 
 اس‌اس‌او‌تی (SSOT): منبع واحد حقیقت (داده‌های مرجع)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **اَشا:** :doc:`Asha: Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`
-* **کاران:** :doc:`Karan: Business registry | منبع حقیقت کسب و کارها <category/tools/karan>`
-* **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`
-* **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`
-* **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`
-* **دیتاپک‌ورس:** :doc:`Datapackverse: Intelligent Software Registry | هسته مرکزی ابزارها و پایش نسخه‌ها <category/tools/datapackverse>`
-* **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`
-* **نگارگر:** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`
-* **واژ:** :doc:`Vazh: Unified Language Reference | مرجع یکپارچگی زبان در اکوسیستم داده‌گرا <category/tools/vazh>`
-* **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`
-* **هایپرآریالند:** :doc:`HyperAryaLand: Dataist desktop customization tailored to business | شخصی‌سازی میزکار دیتائیست متناسب با کسب‌وکار <category/tools/hyperaryaland>`
-* **آرگنیکس:** :doc:`Argenix: Smart pricing engine for product value calculation | موتور هوشمند قیمت‌گذاری و محاسبه ارزش محصول <category/tools/argenix>`
+* **اَشا:** :doc:`Asha: Design language | زبان طراحی اکوسیستم داده‌گرا <category/tools/asha>`	🔥️
+* **کاران:** :doc:`Karan: Business registry | منبع حقیقت کسب و کارها <category/tools/karan>`	🔥️
+* **داد:** :doc:`Dat: Data Schema | قانون داده‌های اکوسیستم داده‌گرا <category/tools/dat>`	🔥️
+* **داده‌سالار:** :doc:`DataBoss | منبع داده حقیقت شامل افراد حقوقی، حقیقی، کالاها <category/tools/databoss>`	🔥️
+* **داتیستان:** :doc:`Datistan:The Constitution of the Dataist Distribution | قانون اساسی توزیع داده‌گرا <category/tools/datistan>`	🔥️
+* **دیتاپک‌ورس:** :doc:`Datapackverse: Intelligent Software Registry | هسته مرکزی ابزارها و پایش نسخه‌ها <category/tools/datapackverse>`	🔥️
+* **دی‌پیک:** :doc:`DPIC: Dataist Professional Institute Certification | کتاب گواهینامه بنیاد حرفه‌ای دیتائیست <category/tools/dpic>`	🔥️
+* **نگارگر:** :doc:`Negargar: Living Interface Engine | موتور تجسم رابط کاربری و شبیه‌ساز سه‌بعدی <category/tools/negargar>`	🔥️
+* **واژ:** :doc:`Vazh: Unified Language Reference | مرجع یکپارچگی زبان در اکوسیستم داده‌گرا <category/tools/vazh>`	🔥️
+* **هاب دعوت‌نامه:** :doc:`invitehub | کدهای دعوت‌نامه باشگاه مشتریان <category/tools/invitehub>`	🔥️
+* **هایپرآریالند:** :doc:`HyperAryaLand: Dataist desktop customization tailored to business | شخصی‌سازی میزکار دیتائیست متناسب با کسب‌وکار <category/tools/hyperaryaland>`	🔥️
+* **آرگنیکس:** :doc:`Argenix: Smart pricing engine for product value calculation | موتور هوشمند قیمت‌گذاری و محاسبه ارزش محصول <category/tools/argenix>`	🔥️
 
 استارتاپ: ابزارهای اکوسیستم و زیرساخت‌های مقیاس‌پذیر
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* **استعلامات:** :doc:`Estelamat: Bridge to Citizen Services | پل وضعیت به خدمات شهروندی <category/tools/estelamat>`
-* **انجیرسنج:** :doc:`FigScan: Intelligent Fig Variety Identifier | شناسایی هوشمند ارقام انجیر <category/tools/fig_scan>`
-* **ایران‌اکسس:** :doc:`IranAccess: Network Accessibility Monitor | وضعیت شبکه ایران <category/tools/iranaccess>`
-* **اینفوور:** :doc:`Infovore: System Deep-Dive Monitor | پایش اعماق داده‌های سخت‌افزاری و نرم‌افزاری <category/tools/infovore>`
-* **دنس‌سینک:** :doc:`DanceSync: The Ultimate Duo Combos | بهترین ترکیب‌های دو نفره <category/tools/dancesync>`
-* **دیتینگ‌فورایکس:** :doc:`Dating4X: Connecting People in the Twitter Geography | پیوند  جغرافیای اکس <category/tools/dating4x>`
-* **رادارپت:** :doc:`RadarPet: Intelligent Lost Pet Tracking Network | شبکه جستجوی حیوانات گمشده <category/tools/radarpet>`
-* **رادگالر:** :doc:`RadGaller: Dynamic Art Event Radar |  نقشه پویا رادار پایش رویدادهای هنری <category/tools/radgaller>`
-* **رپ‌کد:** :doc:`RapCode: Rhythmic Code Flow | تبدیل منطق برنامه‌نویسی به ضرب‌آهنگ و جریان موسیقی <category/tools/rapcode>`
-* **ژئوملودی:** :doc:`GeoMelody: Audio Signature of Routes | تبدیل مسیرهای حرکتی به سمفونی‌های ماندگار <category/tools/geomelody>`
-* **سون‌فای:** :doc:`Sevenfy: Smart Music Player for Seven Devices | درک موسیقی در دستگاه‌های هفتگانه <category/tools/sevenfy>`
-* **غزالی‌ک:** :doc:`Ghazalique: Image Mosaic Weaver |  پیوند تصاویر مستقل جهت ساخت تصویر بزرگ و یکپارچه <category/tools/ghazalique>`
-* **گوست‌پورت:** :doc:`GhostPort: Invisible Data Exchange Stations | سرگرمی تبادل ایمن داده در فضای فیزیکی <category/tools/ghostport>`
-* **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`
-* **نت‌اکو:** :doc:`NetEcho: Web Interaction Echo | انتشار متن در هر کجای اینترنت <category/tools/netecho>`
-* **ویس:** :doc:`Veys: Smart Companion for Digital Nomads | همراه هوشمند عشایر دیجیتال <category/tools/veys>`
-* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`
-* **راستین:** :doc:`Rastin: Sport-focused social network | شبکه اجتماعی ورزش‌محور <category/tools/rastin>`
-* **نقشه راستین:** :doc:`Rastin Map: Sport mapping and spatial tracking | نقشه‌برداری ورزشی و ردیابی مکانی <category/tools/rastin_map>`
-* **ایران‌شهر:** :doc:`IranShahr: International Image Interoperability Framework (IIIF) service | سرویس استاندارد تعامل‌پذیری <category/tools/iranshahr>`
-* **هفت خان:** :doc:`HaftKhan: Challenge tracker & lists | ابزار پیگیری چالش‌ها و لیست‌ها <category/tools/haftkhan>`
-* **بلودریمز:** :doc:`Bludreams: Sleep-focused tracker and community platform | ابزار خواب‌محور و پلتفرم اجتماعی خواب <category/tools/bludreams>`
-* **آوند:** :doc:`Avand: All-in-one observability and system health tool | ابزار جامع پایش ترافیک و سلامت سیستم <category/tools/avand>`
-
+* **استعلامات:** :doc:`Estelamat: Bridge to Citizen Services | پل وضعیت به خدمات شهروندی <category/tools/estelamat>`	🔥️
+* **انجیرسنج:** :doc:`FigScan: Intelligent Fig Variety Identifier | شناسایی هوشمند ارقام انجیر <category/tools/fig_scan>`	🔥️
+* **ایران‌اکسس:** :doc:`IranAccess: Network Accessibility Monitor | وضعیت شبکه ایران <category/tools/iranaccess>`	🔥️
+* **اینفوور:** :doc:`Infovore: System Deep-Dive Monitor | پایش اعماق داده‌های سخت‌افزاری و نرم‌افزاری <category/tools/infovore>`	🔥️
+* **دنس‌سینک:** :doc:`DanceSync: The Ultimate Duo Combos | بهترین ترکیب‌های دو نفره <category/tools/dancesync>`	🔥️
+* **دیتینگ‌فورایکس:** :doc:`Dating4X: Connecting People in the Twitter Geography | پیوند  جغرافیای اکس <category/tools/dating4x>`	🔥️
+* **رادارپت:** :doc:`RadarPet: Intelligent Lost Pet Tracking Network | شبکه جستجوی حیوانات گمشده <category/tools/radarpet>`	🔥️
+* **رادگالر:** :doc:`RadGaller: Dynamic Art Event Radar |  نقشه پویا رادار پایش رویدادهای هنری <category/tools/radgaller>`	🔥️
+* **رپ‌کد:** :doc:`RapCode: Rhythmic Code Flow | تبدیل منطق برنامه‌نویسی به ضرب‌آهنگ و جریان موسیقی <category/tools/rapcode>`	🔥️
+* **ژئوملودی:** :doc:`GeoMelody: Audio Signature of Routes | تبدیل مسیرهای حرکتی به سمفونی‌های ماندگار <category/tools/geomelody>`	🔥️
+* **سون‌فای:** :doc:`Sevenfy: Smart Music Player for Seven Devices | درک موسیقی در دستگاه‌های هفتگانه <category/tools/sevenfy>`	🔥️
+* **غزالی‌ک:** :doc:`Ghazalique: Image Mosaic Weaver |  پیوند تصاویر مستقل جهت ساخت تصویر بزرگ و یکپارچه <category/tools/ghazalique>`	🔥️
+* **گوست‌پورت:** :doc:`GhostPort: Invisible Data Exchange Stations | سرگرمی تبادل ایمن داده در فضای فیزیکی <category/tools/ghostport>`	🔥️
+* **لاگ‌گرد:** :doc:`LuGard:Your pocket guide to exploring Linux User Groups | لاگ‌گردی <category/tools/lugard>`	🔥️
+* **نت‌اکو:** :doc:`NetEcho: Web Interaction Echo | انتشار متن در هر کجای اینترنت <category/tools/netecho>`	🔥️
+* **ویس:** :doc:`Veys: Smart Companion for Digital Nomads | همراه هوشمند عشایر دیجیتال <category/tools/veys>`	🔥️
+* **هدهد:** :doc:`UpUpa:The Backend-as-a-Service (BaaS) platform | بک‌اِند به عنوان سرویس <category/tools/upupa>`	🔥️
+* **راستین:** :doc:`Rastin: Sport-focused social network | شبکه اجتماعی ورزش‌محور <category/tools/rastin>`	🔥️
+* **ایران‌شهر:** :doc:`IranShahr: International Image Interoperability Framework (IIIF) service | سرویس استاندارد تعامل‌پذیری <category/tools/iranshahr>`	🔥️
+* **هفت خان:** :doc:`HaftKhan: Challenge tracker & lists | ابزار پیگیری چالش‌ها و لیست‌ها <category/tools/haftkhan>`	🔥️
+* **بلودریمز:** :doc:`Bludreams: Sleep-focused tracker and community platform | ابزار خواب‌محور و پلتفرم اجتماعی خواب <category/tools/bludreams>`	🔥️
+* **آوند:** :doc:`Avand: All-in-one observability and system health tool | ابزار جامع پایش ترافیک و سلامت سیستم <category/tools/avand>`	🔥️
+* **چترنگ:** :doc:`Chatrang: Interactive communication and messaging tool | ابزار ارتباطی و پیام‌رسان تعاملی <category/tools/chatrang>`[cite: 1]	🔥️
+* **کلیکورد:** :doc:`Clicord: Command-line interface for Discord | رابط خط فرمان برای دیسکورد <category/tools/clicord>`[cite: 2]	🔥️
+* **داری‌کاریا:** :doc:`Daricaria: Daricaria system and utility tool | ابزار کاربردی و سیستمی داری‌کاریا <category/tools/daricaria>`[cite: 3]	🔥️
+* **دیتائیست‌اواس:** :doc:`DataistOS: The core operating system of Dataist ecosystem | سیستم‌عامل مرکزی اکوسیستم دیتائیست <category/tools/dataistos>`[cite: 4]	🔥️
+* **گیت‌چت:** :doc:`Gitchat: Chat over Git repositories | ابزار گفت‌وگو بر بستر مخازن گیت <category/tools/gitchat>`[cite: 5]	🔥️
+* **پریس:** :doc:`Peris: Peris system utility and management tool | ابزار سیستمی و مدیریت پریس <category/tools/peris>`[cite: 6]	🔥️
+* **پرسی‌تون:** :doc:`Persiatoon: Persian cartoon and animation platform | پلتفرم انیمیشن و کارتون پرسی‌تون <category/tools/persiatoon>`[cite: 7]	🔥️
+* **پیروز:** :doc:`Pirouz: Pirouz system and utility tool | ابزار کاربردی و مدیریتی پیروز <category/tools/pirouz>`[cite: 8]	🔥️
+* **سورنا:** :doc:`Surena: Surena system utility and automation tool | ابزار اتوماسیون و کاربردی سورنا <category/tools/surena>`[cite: 9]	🔥️
+* **وَرگ:** :doc:`Varg: Varg system utility and management tool | ابزار مدیریت و کاربردی ورگ <category/tools/varg>`[cite: 10]	🔥️
+267
 به‌روزرسانی: آخرین نسخه ابزارها با دیتاپک‌ورس
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

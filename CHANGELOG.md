@@ -1,3 +1,46 @@
+## [0.5.0] - 2026-07-29
+
+### Added
+- Add documentation files for new tools:
+  - `chatrang` (Interactive collaboration tool)
+  - `clicord` (CLI coordination utility)
+  - `daricaria` (Data management utility)
+  - `dataistos` (Core DataistOS integration tool)
+  - `gitchat` (Git-based communication utility)
+  - `javidan` (Long-term data preservation tool)
+  - `netarg` (Network argument analyzer)
+  - `padra` (System management utility)
+  - `peris` (Performance monitoring tool)
+  - `persiatoon` (Animation and graphics utility)
+  - `pirouz` (Victory and status tracker)
+  - `surena` (Command-line automation utility)
+  - `varg` (Validation and argument parser)
+
+### Changed
+- Update business models (`plan.rst`).
+- Update existing tool documentation (`argenix`, `avand`, `bludreams`, `dataflow`, `datasync`, `dizhan`, `ganjor`, `github`, `haftkhan`, `hyperaryaland`, `idna`, `iranshahr`, `karnama`, `ketabek`, `neofetch`, `parsva`, `radin`, `rahnam`, `rastin`, `rayaname`, `rokhdad`, `rouz`, `vangah`, `vimist`).
+- Update `download.rst` and `tools.rst` to integrate new ecosystem tools and configurations.
+
+### Removed
+- Remove deprecated map tool documentation (`rastin_map.rst`).
+
+## [0.4.7] - 2026-07-21
+### Added
+- Add documentation files for new tools:
+  - `argenix` (Smart pricing engine)
+  - `avand` (Observability and system health tool)
+  - `bludreams` (Sleep-focused tracker and community platform)
+  - `dataflow` (GitHub Actions configurations for CI/CD)
+  - `datasync` (Android data synchronization utility)
+  - `github` (Configurations and templates)
+  - `neofetch` (System information tool)
+  - `parsva` (System backup and snapshot utility)
+  - `rouz` (Calendar tool)
+  - `vimist` (Vim/Neovim configuration)
+### Changed
+- Update `VERSION` to 0.4.7.
+- Update `download.rst` and `tools.rst` to integrate new ecosystem tools and configurations.
+
 ## [0.4.6] - 2026-07-20
 
 ### Added
