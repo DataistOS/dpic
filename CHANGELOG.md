@@ -1,3 +1,12 @@
+## [v0.5.1] - 2026-07-30
+
+### Changes & Improvements
+- **Economy & Business Models (`plan.rst` & `plan.json`):**
+  - Refined and structurally categorized role-based footnotes and citations across the revenue plan matrix.
+  - Added structured business model definitions and configurations in the new `plan.json` file.
+- **Documentation & Downloads (`download.rst`):**
+  - Updated and optimized download guides and resource links.
+
 ## [0.5.0] - 2026-07-29
 
 ### Added
