@@ -19,11 +19,11 @@
 
    category/economy/business/models/summary
    category/economy/business/models/rbf
-   category/economy/business/models/donate
+   category/economy/business/models/participant
    category/economy/business/models/individual
    category/economy/business/models/corporate
    category/economy/business/models/daas
-   category/economy/business/models/asset_owner
+   category/economy/business/models/malek
    
    category/economy/business/models/plan
    category/economy/business/models/brans
