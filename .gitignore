@@ -5,6 +5,7 @@ site/
 _source/downloads
 _templates/logs
 _templates/checklist/
+_templates/docs_as_code
 
 # -- Python Environment & Virtual Environments -------------------------------
 .venv/
@@ -12,6 +13,7 @@ venv/
 env/
 ENV/
 .env
+.logs
 .idea/
 .DS_Store
 Thumbs.db

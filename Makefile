@@ -20,6 +20,11 @@ help:
 # Target to clean and build HTML, EPUB, and PDF formats
 build-all:
 	@echo "=================================================="
+	@echo "Running plan.rst to plan.json sync script..."
+	@echo "=================================================="
+	python3 _script/rst_to_json.py
+
+	@echo "=================================================="
 	@echo "Cleaning previous builds..."
 	@echo "=================================================="
 	rm -rf _build/*
@@ -53,6 +58,10 @@ build-all-log:
 	@$(MAKE) build-all 2>&1 | tee "_templates/logs/$$(date +'%Y%m%d%H%M%S')_build_logs.txt"
 
 build-multiversion:
+	@echo "=================================================="
+	@echo "Running plan.rst to plan.json sync script..."
+	@echo "=================================================="
+	python3 _script/rst_to_json.py
 	@echo "=================================================="
 	@echo "Cleaning previous multiversion HTML build..."
 	@echo "=================================================="
