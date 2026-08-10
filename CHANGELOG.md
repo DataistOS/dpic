@@ -1,3 +1,9 @@
+## [0.6.1] - 2026-08-10
+### Features & Improvements
+- **Architecture Pipeline (`rst -> json -> dart`)**: Refactored the build automation script to cleanly parse `plan.rst` into structured `plan.json` data, which then securely drives the generation of the `AccessMatrixService` Dart class.
+- **Python Scripting Standards**: Updated all script docstrings, comments, and structure to strictly follow the Google Python Style Guide.
+- **Business Models & Documentation**: Updated `plan.rst` and download guidelines (`download.rst`) to reflect the latest ecosystem changes and version bump to `0.6.1`.
+
 ## [0.6.0] - 2026-08-06
 ### Added
 - Add `rst_to_json.py` script in `_script/` to automate Docs-as-Code data extraction from `plan.rst` to JSON.
