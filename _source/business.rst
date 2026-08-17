@@ -16,18 +16,21 @@
    :maxdepth: 2
    :caption: سرفصل‌های مدل اقتصادی:
 
-
-   category/economy/business/models/summary
-   category/economy/business/models/rbf
-   category/economy/business/models/participant
-   category/economy/business/models/individual
-   category/economy/business/models/corporate
-   category/economy/business/models/daas
-   category/economy/business/models/malek
-   
    category/economy/business/models/plan
-   category/economy/business/models/brans
-   category/economy/business/finance/payments
+   category/economy/business/models/summary
+   category/economy/business/models/advertising_roles
+   category/economy/business/models/brans_roles
+   category/economy/business/models/dass_roles
+   category/economy/business/models/databoss_roles
+   category/economy/business/models/dataist_roles
+   category/economy/business/models/donation_roles
+   category/economy/business/models/individual_roles
+   category/economy/business/models/investor_roles
+   category/economy/business/models/legal_roles
+   category/economy/business/models/malek_roles
+   category/economy/business/models/nextcloud_roles
+   category/economy/business/models/participant_roles
+   category/economy/business/models/staff_roles
 
 مفاد قراردادها
 ------------------------------------------------------------------------
