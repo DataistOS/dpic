@@ -7,4 +7,4 @@
 
 افراد حقوقی طرف قرارداد **شرکت** `آزاداندیش داده‌ساز <https://next.dataist.ir/u/ftdc/>`_:
 
-* **ماهرنگ:** `پروفایل و اطلاعات بیشتر <https://next.dataist.ir/u/mahrang/>`_
+* **استودیو الف:** `پروفایل و اطلاعات بیشتر <https://next.dataist.ir/u/alefstudio/>`_
